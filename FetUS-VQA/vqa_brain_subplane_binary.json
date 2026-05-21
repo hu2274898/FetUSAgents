@@ -1,0 +1,5123 @@
+[
+    {
+        "image_id": "transcereb_126",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_103",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_139",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_199",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_134",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_193",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_179",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_170",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_175",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_129",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_133",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_181",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_186",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_107",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_104",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_153",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_130",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_124",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_140",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_184",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_167",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_113",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_162",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_178",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_157",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_156",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_127",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_143",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_154",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_173",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_106",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_168",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_147",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_119",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_142",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_190",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_138",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_141",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_148",
+        "question": "Is this ultrasound image taken at the Trans-cerebellum level?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_112",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_198",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_115",
+        "question": "Is this ultrasound image taken at the Trans-cerebellum level?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_117",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_109",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_111",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_152",
+        "question": "Are we looking at the Trans-cerebellum level?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_108",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_116",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_128",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_105",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_171",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_180",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_166",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_125",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_137",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_191",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_150",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_118",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_110",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_200",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_161",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_102",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_123",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_187",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_155",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_135",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_131",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_136",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_172",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_101",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_151",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_144",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_120",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_149",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_197",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_122",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_176",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_159",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_145",
+        "question": "Is this ultrasound image representative of the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_169",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_164",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_132",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_165",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_194",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transcereb_183",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_188",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_192",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_146",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_121",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transcereb_163",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_069",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_178",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_081",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_005",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_104",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_017",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_177",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_216",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_243",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_095",
+        "question": "Is this ultrasound image representative of the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_010",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_028",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_107",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_047",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_072",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_227",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_191",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_024",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_210",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_190",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_244",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_089",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_093",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_044",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_170",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_239",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_157",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_055",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_014",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_188",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_092",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_249",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_117",
+        "question": "Is this ultrasound image taken at the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_224",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_088",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_161",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_218",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_000",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_124",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_141",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_094",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_090",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_116",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_057",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_037",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_172",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_086",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_135",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_247",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_181",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_006",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_056",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_165",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_176",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_026",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_111",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_254",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_113",
+        "question": "Are we looking at the Trans-cerebellum level?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_262",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_102",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_189",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_019",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_122",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_008",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_225",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_193",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_146",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_136",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_253",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_075",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_151",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_030",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_139",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_228",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_016",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_162",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_153",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_021",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_147",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_186",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_179",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_148",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_084",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_208",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_105",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_131",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_163",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_121",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_058",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_033",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_132",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_149",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_252",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_073",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_200",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_205",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_027",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_060",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_204",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_144",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_150",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_125",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_018",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_115",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_166",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_168",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_059",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_248",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_025",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_070",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_076",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_083",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_011",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_031",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_209",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_071",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_169",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_119",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_174",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_232",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_020",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_246",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_187",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_087",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_192",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_229",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_103",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_085",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_001",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_236",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_145",
+        "question": "Is this ultrasound image taken at the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_223",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_032",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_066",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_067",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_110",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_109",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_196",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_101",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_207",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_048",
+        "question": "Is this image taken from the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_096",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_015",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_143",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_217",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_160",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_242",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_050",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_195",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_079",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_235",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_222",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_012",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_251",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_061",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_046",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_078",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_097",
+        "question": "Is this ultrasound image taken at the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_054",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_108",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_198",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_158",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_214",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_230",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_042",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_237",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_175",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_257",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_138",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_154",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_038",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_259",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_099",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_091",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_202",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_233",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_118",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_137",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_260",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_077",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_114",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_106",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_034",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_245",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_039",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_036",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_140",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_211",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_063",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_065",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_007",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_221",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_250",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_240",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_013",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_203",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_041",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_080",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_009",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_142",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_173",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_082",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_051",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_128",
+        "question": "Is this image taken at the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_127",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_164",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_062",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_035",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_185",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_002",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_126",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_199",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_022",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_220",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_184",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_215",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_120",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_183",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_134",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_201",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_049",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_068",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_219",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_045",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_180",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "transtalamic_052",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_064",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "transtalamic_238",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_273",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_086",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_029",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_097",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_234",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_080",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_254",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_202",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_028",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_154",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_095",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_205",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_213",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_015",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_021",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_244",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_044",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_239",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_135",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_005",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_003",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_245",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_146",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_141",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_200",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_020",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_274",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_032",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_060",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_009",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_136",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_153",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_074",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_129",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_255",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_212",
+        "question": "Is this ultrasound image representative of the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_251",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_207",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_130",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_068",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_161",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_066",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_083",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_014",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_203",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_229",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_247",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_235",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_238",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_180",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_190",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_096",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_143",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_049",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_189",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_253",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_087",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_277",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_120",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_107",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_056",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_156",
+        "question": "Is this ultrasound image representative of the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_137",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_152",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_058",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_041",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_263",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_059",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_128",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_160",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_039",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_151",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_105",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_183",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_249",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_116",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_217",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_188",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_016",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_133",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_199",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_173",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_092",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_257",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_103",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_090",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_001",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_042",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_276",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_022",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_115",
+        "question": "Is this image representative of the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_163",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_124",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_223",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_231",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_018",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_243",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_024",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_237",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_051",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_150",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_272",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_149",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_064",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_053",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_222",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_102",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_185",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_050",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_077",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_019",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_265",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_246",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_013",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_048",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_233",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_159",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_271",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_193",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_067",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_111",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_224",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_012",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_168",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_038",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_232",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_167",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_264",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_073",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_250",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_081",
+        "question": "Is this ultrasound image from the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_088",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_181",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_112",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_138",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_158",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_017",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_270",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_209",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_106",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_155",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_036",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_164",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_118",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_175",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_269",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_198",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_178",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_208",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_179",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_182",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_110",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_201",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_054",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_055",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_045",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_260",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_172",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_191",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_228",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_142",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_145",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_211",
+        "question": "Is this ultrasound image obtained from the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_262",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_219",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_268",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_034",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_093",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_047",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_037",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_000",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_125",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_176",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_123",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_070",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_216",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_046",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_157",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_227",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_259",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_140",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_025",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_072",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_194",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_242",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_023",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_218",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_078",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_192",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_099",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_220",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_197",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_131",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_248",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_109",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_215",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_057",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_002",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_187",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_026",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_113",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_148",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_030",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_166",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_075",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_052",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_061",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_008",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_084",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_079",
+        "question": "Are we looking at the Trans-cerebellum level?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_174",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_162",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_275",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_278",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_119",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_177",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_210",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_195",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_126",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_006",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_033",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_104",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_266",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_241",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_031",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_004",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_094",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_206",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_196",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_011",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_010",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_082",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_132",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_122",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_117",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_134",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_236",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_062",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_258",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_108",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_139",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_065",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_261",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_027",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_127",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_170",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_230",
+        "question": "Does this scan represent the Trans-cerebellum plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_184",
+        "question": "Does this scan represent the Trans-thalamic plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "trasventricular_114",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_040",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "trasventricular_147",
+        "question": "Does this scan represent the Trans-ventricular plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    }
+]

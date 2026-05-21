@@ -1,0 +1,2583 @@
+[
+    {
+        "image_id": "patient001_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient001_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient004_DZA_plane1",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient004_DZA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient004_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane0",
+        "question": "Which anatomical plane is shown in the image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient012_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient012_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient014_DZA_plane1",
+        "question": "Which anatomical plane is shown in the provided fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient014_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient014_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_DZA_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound imaging? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient023_DZA_plane2",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient023_DZA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient023_DZA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient023_DZA_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient033_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_DZA_plane2",
+        "question": "Which anatomical plane is shown in the following fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_DZA_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient033_DZA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient036_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient036_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient036_DZA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient036_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_DZA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient044_DZA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient044_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient045_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient045_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient045_DZA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient045_DZA_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient048_DZA_plane0",
+        "question": "Which anatomical plane is shown in the provided fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient048_DZA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient048_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient048_DZA_plane3",
+        "question": {
+            "type": "Multi-choice",
+            "question": "Which anatomical plane is shown in the ultrasound image?",
+            "options": {
+                "A": "Fetal abdomen",
+                "B": "Fetal femur",
+                "C": "Fetal brain",
+                "D": "Fetal thorax"
+            }
+        },
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient051_DZA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient051_DZA_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient051_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient051_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient052_DZA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient052_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient052_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient052_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient053_DZA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient053_DZA_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient053_DZA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient053_DZA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_EGY_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient001_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient003_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_EGY_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient003_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient005_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient005_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient005_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient005_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_EGY_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient007_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient009_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient009_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient009_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient010_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient010_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient010_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient010_EGY_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient011_EGY_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_EGY_plane0",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_EGY_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient014_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient014_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient014_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient015_EGY_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient015_EGY_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient015_EGY_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient015_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient024_EGY_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient024_EGY_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient025_EGY_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient025_EGY_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient025_EGY_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient025_EGY_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient026_EGY_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_EGY_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient026_EGY_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient026_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient028_EGY_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient028_EGY_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient028_EGY_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient028_EGY_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient001_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient001_MWI_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_MWI_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_MWI_plane3",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient003_MWI_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? Options: (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient004_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient004_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_MWI_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient007_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient007_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_MWI_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient007_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient009_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient011_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient011_MWI_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_MWI_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient013_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? Options: (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient013_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient013_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient013_MWI_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_MWI_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient015_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient015_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient015_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient020_MWI_plane0",
+        "question": "What anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient020_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient020_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient024_MWI_plane0",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient024_MWI_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient024_MWI_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_MWI_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient029_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient029_MWI_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient029_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient031_MWI_plane3",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient031_MWI_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_MWI_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient031_MWI_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_MWI_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient033_MWI_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_MWI_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_MWI_plane3",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "D"
+    },
+    {
+        "image_id": "patient022_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient022_UGA_plane2",
+        "question": {
+            "type": "Multi-choice",
+            "question": "Which anatomical plane is shown in the fetal ultrasound image?",
+            "options": {
+                "A": "Fetal abdomen",
+                "B": "Fetal femur",
+                "C": "Fetal brain",
+                "D": "Fetal thorax"
+            }
+        },
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient022_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_UGA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient026_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient026_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient030_UGA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient030_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient030_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_UGA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient031_UGA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient037_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient037_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient037_UGA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient039_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient039_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient039_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient046_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image?",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient046_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient046_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient050_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient050_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient050_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient074_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient074_UGA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient074_UGA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient088_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient088_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient088_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient091_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient091_UGA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient091_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient103_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient103_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient103_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient106_UGA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient106_UGA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient106_UGA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? Options: (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient002_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient002_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient002_GHA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient004_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_GHA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient006_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient006_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient006_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient007_GHA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient007_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient018_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient018_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient018_GHA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient028_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient028_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient029_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient029_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient035_GHA_plane0",
+        "question": "Which anatomical plane is shown in this fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient035_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient035_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient038_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient038_GHA_plane1",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient038_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient042_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient042_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient042_GHA_plane2",
+        "question": "Which anatomical plane is shown in the ultrasound image of the fetus? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient044_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient048_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    },
+    {
+        "image_id": "patient048_GHA_plane2",
+        "question": "In the provided ultrasound image of the fetus, which anatomical plane is shown? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient048_GHA_plane0",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient055_GHA_plane0",
+        "question": "Which anatomical plane is shown in the ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient055_GHA_plane2",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient055_GHA_plane1",
+        "question": "Which anatomical plane is shown in the fetal ultrasound image? (A) Fetal abdomen, (B) Fetal femur, (C) Fetal brain, (D) Fetal thorax.",
+        "options": [
+            "(A) Fetal abdomen",
+            "(B) Fetal femur",
+            "(C) Fetal brain",
+            "(D) Fetal thorax"
+        ],
+        "answer": "C"
+    }
+]

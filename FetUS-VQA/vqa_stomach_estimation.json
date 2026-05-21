@@ -1,0 +1,3038 @@
+[
+    {
+        "image_id": "abdomcirc_000.png",
+        "question": "Can you estimate the total pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 3280",
+            "(B) 5517",
+            "(C) 2106",
+            "(D) 4305"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3280.0
+    },
+    {
+        "image_id": "abdomcirc_001.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3160",
+            "(B) 5086",
+            "(C) 7054",
+            "(D) 2401"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5086.0
+    },
+    {
+        "image_id": "abdomcirc_002.png",
+        "question": "Could you provide an estimate of the fetal stomach volume in pixel measurements based on this ultrasound image?",
+        "options": [
+            "(A) 8433",
+            "(B) 14887",
+            "(C) 18089",
+            "(D) 11458"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 11458.0
+    },
+    {
+        "image_id": "abdomcirc_003.png",
+        "question": "How many pixels represent the total area of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4156",
+            "(B) 3216",
+            "(C) 1467",
+            "(D) 2079"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 3216.0
+    },
+    {
+        "image_id": "abdomcirc_004.png",
+        "question": "From the provided ultrasound image, can you estimate the total pixel area representing the volume of the fetal stomach?",
+        "options": [
+            "(A) 19153",
+            "(B) 12216",
+            "(C) 9140",
+            "(D) 16535"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 12216.0
+    },
+    {
+        "image_id": "abdomcirc_005.png",
+        "question": "Can you provide an estimate of the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4517",
+            "(B) 13598",
+            "(C) 6981",
+            "(D) 10715"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 10715.0
+    },
+    {
+        "image_id": "abdomcirc_006.png",
+        "question": "Could you assess the ultrasound and provide an estimate of the gastric bubble volume in pixel measurement?",
+        "options": [
+            "(A) 22144",
+            "(B) 14061",
+            "(C) 18975",
+            "(D) 9979"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 14061.0
+    },
+    {
+        "image_id": "abdomcirc_007.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 3989",
+            "(B) 2331",
+            "(C) 7163",
+            "(D) 5586"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5586.0
+    },
+    {
+        "image_id": "abdomcirc_008.png",
+        "question": "What is your estimation of the fetal stomach volume represented in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 7858",
+            "(B) 11034",
+            "(C) 5048",
+            "(D) 13925"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 11034.0
+    },
+    {
+        "image_id": "abdomcirc_009.png",
+        "question": "Could you estimate the total pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 15197",
+            "(B) 12881",
+            "(C) 7084",
+            "(D) 9754"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 9754.0
+    },
+    {
+        "image_id": "abdomcirc_010.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels.",
+        "options": [
+            "(A) 10204",
+            "(B) 6411",
+            "(C) 4472",
+            "(D) 8338"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 6411.0
+    },
+    {
+        "image_id": "abdomcirc_011.png",
+        "question": "Could you estimate the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 13813",
+            "(B) 8489",
+            "(C) 27486",
+            "(D) 20299"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 20299.0
+    },
+    {
+        "image_id": "abdomcirc_012.png",
+        "question": "Could you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8150",
+            "(B) 9578",
+            "(C) 5882",
+            "(D) 3780"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5882.0
+    },
+    {
+        "image_id": "abdomcirc_013.png",
+        "question": "Can you provide an estimation of the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6087",
+            "(B) 2852",
+            "(C) 3782",
+            "(D) 7733"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6087.0
+    },
+    {
+        "image_id": "abdomcirc_016.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble's volume in pixel count.",
+        "options": [
+            "(A) 4160",
+            "(B) 5712",
+            "(C) 8907",
+            "(D) 7966"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5712.0
+    },
+    {
+        "image_id": "abdomcirc_017.png",
+        "question": "What is the estimated pixel volume of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 8911",
+            "(B) 5494",
+            "(C) 14958",
+            "(D) 11157"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8911.0
+    },
+    {
+        "image_id": "abdomcirc_019.png",
+        "question": "Can you provide an estimate of the gastric bubble area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 3786",
+            "(B) 9391",
+            "(C) 6487",
+            "(D) 11828"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9391.0
+    },
+    {
+        "image_id": "abdomcirc_020.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach area in pixels?",
+        "options": [
+            "(A) 7192",
+            "(B) 13445",
+            "(C) 4566",
+            "(D) 10133"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 10133.0
+    },
+    {
+        "image_id": "abdomcirc_021.png",
+        "question": "Could you provide an estimate of the gastric bubble area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 6779",
+            "(B) 15281",
+            "(C) 9710",
+            "(D) 21248"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 15281.0
+    },
+    {
+        "image_id": "abdomcirc_022.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble volume in pixels.",
+        "options": [
+            "(A) 12886",
+            "(B) 6391",
+            "(C) 17637",
+            "(D) 8394"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 12886.0
+    },
+    {
+        "image_id": "abdomcirc_024.png",
+        "question": "Could you assess the image and provide an estimate of the gastric bubble volume in pixels?",
+        "options": [
+            "(A) 16700",
+            "(B) 12195",
+            "(C) 7463",
+            "(D) 18428"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 12195.0
+    },
+    {
+        "image_id": "abdomcirc_025.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach's area in pixels?",
+        "options": [
+            "(A) 10481",
+            "(B) 18577",
+            "(C) 14143",
+            "(D) 5773"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 14143.0
+    },
+    {
+        "image_id": "abdomcirc_026.png",
+        "question": "How many pixels correspond to the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 10633",
+            "(B) 6546",
+            "(C) 4017",
+            "(D) 8212"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 6546.0
+    },
+    {
+        "image_id": "abdomcirc_027.png",
+        "question": "Assess the ultrasound image and provide an estimation of the fetal stomach volume in pixels.",
+        "options": [
+            "(A) 11943",
+            "(B) 7865",
+            "(C) 10850",
+            "(D) 5157"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 7865.0
+    },
+    {
+        "image_id": "abdomcirc_028.png",
+        "question": "Assess the ultrasound image and provide an estimation of the gastric bubble volume in pixels.",
+        "options": [
+            "(A) 7587",
+            "(B) 17988",
+            "(C) 11630",
+            "(D) 14965"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 11630.0
+    },
+    {
+        "image_id": "abdomcirc_029.png",
+        "question": "What is your estimation of the fetal stomach's volume in pixels as shown in this ultrasound image?",
+        "options": [
+            "(A) 7920",
+            "(B) 10669",
+            "(C) 14540",
+            "(D) 5028"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 10669.0
+    },
+    {
+        "image_id": "abdomcirc_030.png",
+        "question": "What is your estimation of the fetal stomach's volume in pixels based on the provided ultrasound image?",
+        "options": [
+            "(A) 20058",
+            "(B) 12125",
+            "(C) 16161",
+            "(D) 7875"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 12125.0
+    },
+    {
+        "image_id": "abdomcirc_031.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 12941",
+            "(B) 6322",
+            "(C) 9499",
+            "(D) 4168"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9499.0
+    },
+    {
+        "image_id": "abdomcirc_033.png",
+        "question": "Can you estimate the total pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 7185",
+            "(B) 5133",
+            "(C) 3558",
+            "(D) 10007"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7185.0
+    },
+    {
+        "image_id": "abdomcirc_035.png",
+        "question": "How many pixels do you estimate represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 14025",
+            "(B) 9664",
+            "(C) 22671",
+            "(D) 19264"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 14025.0
+    },
+    {
+        "image_id": "abdomcirc_036.png",
+        "question": "Can you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 23382",
+            "(B) 19696",
+            "(C) 10395",
+            "(D) 15170"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 15170.0
+    },
+    {
+        "image_id": "abdomcirc_037.png",
+        "question": "Could you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 7926",
+            "(B) 2977",
+            "(C) 6258",
+            "(D) 4149"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 6258.0
+    },
+    {
+        "image_id": "abdomcirc_038.png",
+        "question": "Can you assess the ultrasound image and provide the estimated pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 17991",
+            "(B) 10481",
+            "(C) 5899",
+            "(D) 14045"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 14045.0
+    },
+    {
+        "image_id": "abdomcirc_040.png",
+        "question": "Can you estimate the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6754",
+            "(B) 9181",
+            "(C) 12728",
+            "(D) 4546"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9181.0
+    },
+    {
+        "image_id": "abdomcirc_041.png",
+        "question": "Can you provide an estimate of the gastric bubble volume in pixels from the given ultrasound image?",
+        "options": [
+            "(A) 13085",
+            "(B) 6081",
+            "(C) 17186",
+            "(D) 7869"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 13085.0
+    },
+    {
+        "image_id": "abdomcirc_042.png",
+        "question": "How many pixels represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 7793",
+            "(B) 5932",
+            "(C) 9496",
+            "(D) 3677"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5932.0
+    },
+    {
+        "image_id": "abdomcirc_043.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4170",
+            "(B) 8257",
+            "(C) 2937",
+            "(D) 6133"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6133.0
+    },
+    {
+        "image_id": "abdomcirc_044.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble volume in pixel measurement.",
+        "options": [
+            "(A) 6975",
+            "(B) 3829",
+            "(C) 5337",
+            "(D) 9010"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5337.0
+    },
+    {
+        "image_id": "abdomcirc_045.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels.",
+        "options": [
+            "(A) 3802",
+            "(B) 11374",
+            "(C) 8312",
+            "(D) 5518"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8312.0
+    },
+    {
+        "image_id": "abdomcirc_046.png",
+        "question": "Assess the provided ultrasound image and estimate the total area of the fetal stomach in pixels.",
+        "options": [
+            "(A) 13787",
+            "(B) 17676",
+            "(C) 5582",
+            "(D) 8367"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 13787.0
+    },
+    {
+        "image_id": "abdomcirc_047.png",
+        "question": "Using the provided ultrasound image, can you estimate the pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 3976",
+            "(B) 11680",
+            "(C) 8959",
+            "(D) 5806"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8959.0
+    },
+    {
+        "image_id": "abdomcirc_050.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach's volume in pixel measurements.",
+        "options": [
+            "(A) 10182",
+            "(B) 6274",
+            "(C) 8164",
+            "(D) 4305"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 6274.0
+    },
+    {
+        "image_id": "abdomcirc_051.png",
+        "question": "Can you estimate the total area of the fetal stomach in pixels based on the provided ultrasound image?",
+        "options": [
+            "(A) 5783",
+            "(B) 2631",
+            "(C) 3678",
+            "(D) 7772"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5783.0
+    },
+    {
+        "image_id": "abdomcirc_052.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble volume in pixels.",
+        "options": [
+            "(A) 5993",
+            "(B) 10134",
+            "(C) 3750",
+            "(D) 7815"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5993.0
+    },
+    {
+        "image_id": "abdomcirc_053.png",
+        "question": "What is your estimate for the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3724",
+            "(B) 4903",
+            "(C) 7911",
+            "(D) 10856"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 7911.0
+    },
+    {
+        "image_id": "abdomcirc_054.png",
+        "question": "Using the provided ultrasound image, can you estimate the pixel area corresponding to the fetal stomach?",
+        "options": [
+            "(A) 9095",
+            "(B) 5605",
+            "(C) 7333",
+            "(D) 4092"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5605.0
+    },
+    {
+        "image_id": "abdomcirc_055.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixel count from this ultrasound image?",
+        "options": [
+            "(A) 7752",
+            "(B) 3890",
+            "(C) 5563",
+            "(D) 8876"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5563.0
+    },
+    {
+        "image_id": "abdomcirc_056.png",
+        "question": "Can you estimate the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5427",
+            "(B) 2368",
+            "(C) 3917",
+            "(D) 7292"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5427.0
+    },
+    {
+        "image_id": "abdomcirc_057.png",
+        "question": "What is your estimation of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 2886",
+            "(B) 4715",
+            "(C) 7406",
+            "(D) 6042"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4715.0
+    },
+    {
+        "image_id": "abdomcirc_058.png",
+        "question": "Can you estimate the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 7551",
+            "(B) 5861",
+            "(C) 3904",
+            "(D) 2762"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5861.0
+    },
+    {
+        "image_id": "abdomcirc_059.png",
+        "question": "Using the provided ultrasound image, can you estimate the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 2863",
+            "(B) 7767",
+            "(C) 3540",
+            "(D) 5760"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5760.0
+    },
+    {
+        "image_id": "abdomcirc_060.png",
+        "question": "Can you estimate the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5535",
+            "(B) 4053",
+            "(C) 2465",
+            "(D) 7650"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5535.0
+    },
+    {
+        "image_id": "abdomcirc_061.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel count?",
+        "options": [
+            "(A) 8706",
+            "(B) 3907",
+            "(C) 7953",
+            "(D) 5766"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5766.0
+    },
+    {
+        "image_id": "abdomcirc_062.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 5453",
+            "(B) 2365",
+            "(C) 3663",
+            "(D) 7560"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5453.0
+    },
+    {
+        "image_id": "abdomcirc_064.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble volume in pixel count?",
+        "options": [
+            "(A) 4242",
+            "(B) 7834",
+            "(C) 2801",
+            "(D) 5675"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5675.0
+    },
+    {
+        "image_id": "abdomcirc_065.png",
+        "question": "Can you provide an estimate of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 4180",
+            "(B) 3056",
+            "(C) 1902",
+            "(D) 1259"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 3056.0
+    },
+    {
+        "image_id": "abdomcirc_066.png",
+        "question": "Can you estimate the pixel volume of the fetal stomach as depicted in this ultrasound image?",
+        "options": [
+            "(A) 5264",
+            "(B) 8403",
+            "(C) 6647",
+            "(D) 3376"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5264.0
+    },
+    {
+        "image_id": "abdomcirc_067.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 6938",
+            "(B) 8788",
+            "(C) 3396",
+            "(D) 4802"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6938.0
+    },
+    {
+        "image_id": "abdomcirc_068.png",
+        "question": "Can you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6779",
+            "(B) 3079",
+            "(C) 5004",
+            "(D) 8182"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5004.0
+    },
+    {
+        "image_id": "abdomcirc_069.png",
+        "question": "Could you provide an estimate of the gastric bubble's area in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 480",
+            "(B) 1112",
+            "(C) 1439",
+            "(D) 670"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1112.0
+    },
+    {
+        "image_id": "abdomcirc_070.png",
+        "question": "Assess the provided ultrasound image and estimate the pixel area representing the fetal stomach volume.",
+        "options": [
+            "(A) 17307",
+            "(B) 8185",
+            "(C) 11107",
+            "(D) 14705"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 11107.0
+    },
+    {
+        "image_id": "abdomcirc_072.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels.",
+        "options": [
+            "(A) 12426",
+            "(B) 14469",
+            "(C) 9254",
+            "(D) 6936"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9254.0
+    },
+    {
+        "image_id": "abdomcirc_073.png",
+        "question": "Can you estimate the pixel area corresponding to the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6426",
+            "(B) 4411",
+            "(C) 8740",
+            "(D) 10587"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6426.0
+    },
+    {
+        "image_id": "abdomcirc_074.png",
+        "question": "Please assess the ultrasound image and provide an estimate of the gastric bubble volume in pixels.",
+        "options": [
+            "(A) 1824",
+            "(B) 795",
+            "(C) 1315",
+            "(D) 2215"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1315.0
+    },
+    {
+        "image_id": "abdomcirc_075.png",
+        "question": "Could you estimate the area of the fetal stomach in pixels from this ultrasound image?",
+        "options": [
+            "(A) 3427",
+            "(B) 4437",
+            "(C) 2463",
+            "(D) 5724"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3427.0
+    },
+    {
+        "image_id": "abdomcirc_076.png",
+        "question": "Assess the ultrasound image and provide your estimation of the gastric bubble's volume in pixels.",
+        "options": [
+            "(A) 1700",
+            "(B) 3172",
+            "(C) 2497",
+            "(D) 3922"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 2497.0
+    },
+    {
+        "image_id": "abdomcirc_080.png",
+        "question": "Could you provide an estimate of the gastric bubble volume in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 2366",
+            "(B) 1733",
+            "(C) 3880",
+            "(D) 4991"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 3880.0
+    },
+    {
+        "image_id": "abdomcirc_081.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 12843",
+            "(B) 5671",
+            "(C) 10289",
+            "(D) 8078"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 8078.0
+    },
+    {
+        "image_id": "abdomcirc_082.png",
+        "question": "Can you provide an estimate of the gastric bubble volume in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 4119",
+            "(B) 2970",
+            "(C) 5633",
+            "(D) 1666"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4119.0
+    },
+    {
+        "image_id": "abdomcirc_083.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 3858",
+            "(B) 1695",
+            "(C) 2891",
+            "(D) 4879"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3858.0
+    },
+    {
+        "image_id": "abdomcirc_084.png",
+        "question": "Can you estimate the pixel area that corresponds to the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3350",
+            "(B) 5869",
+            "(C) 4686",
+            "(D) 7197"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 4686.0
+    },
+    {
+        "image_id": "abdomcirc_085.png",
+        "question": "Could you provide an estimate of the fetal stomach volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 6246",
+            "(B) 13211",
+            "(C) 17075",
+            "(D) 8737"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 13211.0
+    },
+    {
+        "image_id": "abdomcirc_086.png",
+        "question": "What is your estimation of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 7822",
+            "(B) 3596",
+            "(C) 5707",
+            "(D) 9476"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5707.0
+    },
+    {
+        "image_id": "abdomcirc_087.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 7934",
+            "(B) 12518",
+            "(C) 19631",
+            "(D) 16800"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 12518.0
+    },
+    {
+        "image_id": "abdomcirc_089.png",
+        "question": "Can you assess the ultrasound image and provide the estimated pixel area of the fetal stomach?",
+        "options": [
+            "(A) 4706",
+            "(B) 10441",
+            "(C) 7667",
+            "(D) 13523"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 10441.0
+    },
+    {
+        "image_id": "abdomcirc_090.png",
+        "question": "Can you provide an estimate of the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4443",
+            "(B) 5895",
+            "(C) 2989",
+            "(D) 6784"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4443.0
+    },
+    {
+        "image_id": "abdomcirc_091.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 16276",
+            "(B) 8936",
+            "(C) 20195",
+            "(D) 12749"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 12749.0
+    },
+    {
+        "image_id": "abdomcirc_093.png",
+        "question": "Can you estimate the total pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 11126",
+            "(B) 13956",
+            "(C) 4920",
+            "(D) 7731"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 11126.0
+    },
+    {
+        "image_id": "abdomcirc_094.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 10671",
+            "(B) 14295",
+            "(C) 7024",
+            "(D) 19172"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 14295.0
+    },
+    {
+        "image_id": "abdomcirc_095.png",
+        "question": "From the provided ultrasound image, can you estimate the total pixel area representing the volume of the fetal stomach?",
+        "options": [
+            "(A) 12345",
+            "(B) 14422",
+            "(C) 6052",
+            "(D) 8964"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 8964.0
+    },
+    {
+        "image_id": "abdomcirc_096.png",
+        "question": "Could you provide an estimate of the gastric bubble volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 9959",
+            "(B) 15576",
+            "(C) 7189",
+            "(D) 12951"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 9959.0
+    },
+    {
+        "image_id": "abdomcirc_097.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach's area in pixel count.",
+        "options": [
+            "(A) 2370",
+            "(B) 6380",
+            "(C) 5070",
+            "(D) 3644"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5070.0
+    },
+    {
+        "image_id": "abdomcirc_098.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach's volume in pixel units.",
+        "options": [
+            "(A) 6425",
+            "(B) 3136",
+            "(C) 7794",
+            "(D) 4768"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4768.0
+    },
+    {
+        "image_id": "abdomcirc_099.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble area in pixels?",
+        "options": [
+            "(A) 5114",
+            "(B) 10677",
+            "(C) 13233",
+            "(D) 8165"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 8165.0
+    },
+    {
+        "image_id": "abdomcirc_100.png",
+        "question": "Could you provide an estimate of the fetal stomach volume in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 6314",
+            "(B) 8669",
+            "(C) 11820",
+            "(D) 3802"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 8669.0
+    },
+    {
+        "image_id": "abdomcirc_101.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 4684",
+            "(B) 5386",
+            "(C) 2354",
+            "(D) 3370"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 3370.0
+    },
+    {
+        "image_id": "abdomcirc_102.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 3132",
+            "(B) 4931",
+            "(C) 6391",
+            "(D) 7688"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4931.0
+    },
+    {
+        "image_id": "abdomcirc_103.png",
+        "question": "Could you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 2693",
+            "(B) 3409",
+            "(C) 1284",
+            "(D) 1924"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 2693.0
+    },
+    {
+        "image_id": "abdomcirc_104.png",
+        "question": "Can you estimate the total pixel area of the fetal stomach as shown in this ultrasound image?",
+        "options": [
+            "(A) 5766",
+            "(B) 4138",
+            "(C) 1725",
+            "(D) 2751"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4138.0
+    },
+    {
+        "image_id": "abdomcirc_105.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels.",
+        "options": [
+            "(A) 1928",
+            "(B) 2768",
+            "(C) 4642",
+            "(D) 3567"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 2768.0
+    },
+    {
+        "image_id": "abdomcirc_106.png",
+        "question": "Assess the ultrasound image and estimate the total pixel area of the fetal stomach.",
+        "options": [
+            "(A) 5608",
+            "(B) 4008",
+            "(C) 1925",
+            "(D) 2674"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4008.0
+    },
+    {
+        "image_id": "abdomcirc_107.png",
+        "question": "How many pixels represent the estimated volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3146",
+            "(B) 4001",
+            "(C) 1391",
+            "(D) 2258"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3146.0
+    },
+    {
+        "image_id": "abdomcirc_108.png",
+        "question": "Could you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8754",
+            "(B) 6144",
+            "(C) 18264",
+            "(D) 14312"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 14312.0
+    },
+    {
+        "image_id": "abdomcirc_109.png",
+        "question": "Could you provide an estimate of the fetal stomach's area in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 14632",
+            "(B) 13151",
+            "(C) 6180",
+            "(D) 9481"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 9481.0
+    },
+    {
+        "image_id": "abdomcirc_110.png",
+        "question": "Can you estimate the total pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 8818",
+            "(B) 13434",
+            "(C) 12199",
+            "(D) 6612"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8818.0
+    },
+    {
+        "image_id": "abdomcirc_111.png",
+        "question": "What is the estimated pixel volume of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 6649",
+            "(B) 4230",
+            "(C) 10668",
+            "(D) 9244"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6649.0
+    },
+    {
+        "image_id": "abdomcirc_112.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 6218",
+            "(B) 16790",
+            "(C) 12778",
+            "(D) 8021"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 12778.0
+    },
+    {
+        "image_id": "abdomcirc_114.png",
+        "question": "What is your estimation of the gastric bubble's area in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 16083",
+            "(B) 7832",
+            "(C) 12582",
+            "(D) 19680"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 12582.0
+    },
+    {
+        "image_id": "abdomcirc_115.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 6798",
+            "(B) 10637",
+            "(C) 4219",
+            "(D) 9380"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6798.0
+    },
+    {
+        "image_id": "abdomcirc_117.png",
+        "question": "How many pixels do you estimate represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 2671",
+            "(B) 2064",
+            "(C) 4212",
+            "(D) 5565"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 4212.0
+    },
+    {
+        "image_id": "abdomcirc_118.png",
+        "question": "Can you estimate the total pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8375",
+            "(B) 13669",
+            "(C) 5835",
+            "(D) 11612"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8375.0
+    },
+    {
+        "image_id": "abdomcirc_119.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 9496",
+            "(B) 7344",
+            "(C) 3224",
+            "(D) 4407"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 7344.0
+    },
+    {
+        "image_id": "abdomcirc_121.png",
+        "question": "What is your estimation of the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 13447",
+            "(B) 8070",
+            "(C) 10634",
+            "(D) 5677"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 8070.0
+    },
+    {
+        "image_id": "abdomcirc_122.png",
+        "question": "Can you estimate the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3933",
+            "(B) 5958",
+            "(C) 7997",
+            "(D) 10670"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 7997.0
+    },
+    {
+        "image_id": "abdomcirc_123.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements?",
+        "options": [
+            "(A) 16560",
+            "(B) 13136",
+            "(C) 6261",
+            "(D) 8606"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 13136.0
+    },
+    {
+        "image_id": "abdomcirc_124.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 8695",
+            "(B) 13320",
+            "(C) 25580",
+            "(D) 18992"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 18992.0
+    },
+    {
+        "image_id": "abdomcirc_125.png",
+        "question": "Can you determine the estimated pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 9691",
+            "(B) 12212",
+            "(C) 6747",
+            "(D) 4690"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 9691.0
+    },
+    {
+        "image_id": "abdomcirc_127.png",
+        "question": "Can you estimate the total pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8216",
+            "(B) 11674",
+            "(C) 14759",
+            "(D) 5230"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 11674.0
+    },
+    {
+        "image_id": "abdomcirc_128.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5227",
+            "(B) 14113",
+            "(C) 7330",
+            "(D) 10708"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 10708.0
+    },
+    {
+        "image_id": "abdomcirc_130.png",
+        "question": "Can you provide an estimate of the gastric bubble area in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 6119",
+            "(B) 8515",
+            "(C) 12308",
+            "(D) 15965"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 12308.0
+    },
+    {
+        "image_id": "abdomcirc_131.png",
+        "question": "How many pixels would you estimate the volume of the fetal stomach to be in this ultrasound image?",
+        "options": [
+            "(A) 13216",
+            "(B) 8464",
+            "(C) 17512",
+            "(D) 6346"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 13216.0
+    },
+    {
+        "image_id": "abdomcirc_132.png",
+        "question": "Could you estimate the pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 9691",
+            "(B) 7687",
+            "(C) 3796",
+            "(D) 5730"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 7687.0
+    },
+    {
+        "image_id": "abdomcirc_133.png",
+        "question": "Could you provide an estimate of the gastric bubble volume in pixels from this ultrasound image?",
+        "options": [
+            "(A) 7632",
+            "(B) 4297",
+            "(C) 10192",
+            "(D) 6007"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6007.0
+    },
+    {
+        "image_id": "abdomcirc_135.png",
+        "question": "Could you assess the ultrasound image and provide the estimated pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 7446",
+            "(B) 5621",
+            "(C) 9347",
+            "(D) 3805"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5621.0
+    },
+    {
+        "image_id": "abdomcirc_136.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 3795",
+            "(B) 2582",
+            "(C) 7095",
+            "(D) 5271"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5271.0
+    },
+    {
+        "image_id": "abdomcirc_137.png",
+        "question": "Can you provide an estimate of the fetal stomach's area in pixels from the ultrasound image?",
+        "options": [
+            "(A) 14612",
+            "(B) 6077",
+            "(C) 9675",
+            "(D) 19298"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 14612.0
+    },
+    {
+        "image_id": "abdomcirc_139.png",
+        "question": "Could you provide an estimate of the fetal stomach's area in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 10697",
+            "(B) 14462",
+            "(C) 5013",
+            "(D) 6438"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 10697.0
+    },
+    {
+        "image_id": "abdomcirc_141.png",
+        "question": "What is the estimated pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6956",
+            "(B) 9359",
+            "(C) 4616",
+            "(D) 11536"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6956.0
+    },
+    {
+        "image_id": "abdomcirc_143.png",
+        "question": "Can you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8943",
+            "(B) 6475",
+            "(C) 11246",
+            "(D) 3888"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8943.0
+    },
+    {
+        "image_id": "abdomcirc_146.png",
+        "question": "Can you estimate the total pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5172",
+            "(B) 3282",
+            "(C) 8179",
+            "(D) 6871"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5172.0
+    },
+    {
+        "image_id": "abdomcirc_147.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble volume in pixel count?",
+        "options": [
+            "(A) 4192",
+            "(B) 2078",
+            "(C) 5362",
+            "(D) 2872"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4192.0
+    },
+    {
+        "image_id": "abdomcirc_150.png",
+        "question": "Can you estimate the total area of the fetal stomach in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 5762",
+            "(B) 4588",
+            "(C) 2279",
+            "(D) 2935"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4588.0
+    },
+    {
+        "image_id": "abdomcirc_151.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5671",
+            "(B) 4174",
+            "(C) 3112",
+            "(D) 6604"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4174.0
+    },
+    {
+        "image_id": "abdomcirc_152.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 9812",
+            "(B) 3375",
+            "(C) 4301",
+            "(D) 7044"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 7044.0
+    },
+    {
+        "image_id": "abdomcirc_154.png",
+        "question": "Assess the ultrasound image and provide an estimate of the total pixel area representing the fetal stomach.",
+        "options": [
+            "(A) 14701",
+            "(B) 7049",
+            "(C) 9589",
+            "(D) 12956"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9589.0
+    },
+    {
+        "image_id": "abdomcirc_155.png",
+        "question": "What is your estimation of the fetal stomach's volume in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 11670",
+            "(B) 8337",
+            "(C) 13492",
+            "(D) 6111"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 8337.0
+    },
+    {
+        "image_id": "abdomcirc_156.png",
+        "question": "Can you provide an estimate of the gastric bubble area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 11785",
+            "(B) 5158",
+            "(C) 14996",
+            "(D) 8267"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 11785.0
+    },
+    {
+        "image_id": "abdomcirc_157.png",
+        "question": "Assess the ultrasound image and provide an estimation of the fetal stomach's area in pixels.",
+        "options": [
+            "(A) 4246",
+            "(B) 9688",
+            "(C) 12947",
+            "(D) 6795"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9688.0
+    },
+    {
+        "image_id": "abdomcirc_158.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 6886",
+            "(B) 15809",
+            "(C) 13916",
+            "(D) 10086"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 10086.0
+    },
+    {
+        "image_id": "abdomcirc_159.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble area in pixels?",
+        "options": [
+            "(A) 11570",
+            "(B) 7532",
+            "(C) 4626",
+            "(D) 9966"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 7532.0
+    },
+    {
+        "image_id": "abdomcirc_161.png",
+        "question": "Can you estimate the total pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6255",
+            "(B) 2742",
+            "(C) 7378",
+            "(D) 4530"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4530.0
+    },
+    {
+        "image_id": "abdomcirc_162.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel units?",
+        "options": [
+            "(A) 5754",
+            "(B) 8099",
+            "(C) 3575",
+            "(D) 10763"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 8099.0
+    },
+    {
+        "image_id": "abdomcirc_164.png",
+        "question": "Could you assess the ultrasound image and provide an estimation of the stomach volume in pixel measurements?",
+        "options": [
+            "(A) 7183",
+            "(B) 5744",
+            "(C) 3371",
+            "(D) 4588"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4588.0
+    },
+    {
+        "image_id": "abdomcirc_165.png",
+        "question": "What is your estimation of the fetal stomach volume in pixels based on the ultrasound image provided?",
+        "options": [
+            "(A) 6973",
+            "(B) 9333",
+            "(C) 11401",
+            "(D) 4437"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6973.0
+    },
+    {
+        "image_id": "abdomcirc_166.png",
+        "question": "Assess the ultrasound image and provide an estimation of the gastric bubble volume in pixel measurements.",
+        "options": [
+            "(A) 4829",
+            "(B) 12149",
+            "(C) 10110",
+            "(D) 7970"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 7970.0
+    },
+    {
+        "image_id": "abdomcirc_167.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 15028",
+            "(B) 10974",
+            "(C) 19239",
+            "(D) 7356"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 15028.0
+    },
+    {
+        "image_id": "abdomcirc_169.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels.",
+        "options": [
+            "(A) 4708",
+            "(B) 9578",
+            "(C) 6541",
+            "(D) 12314"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9578.0
+    },
+    {
+        "image_id": "abdomcirc_170.png",
+        "question": "What is the estimated pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8394",
+            "(B) 10554",
+            "(C) 6280",
+            "(D) 13771"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8394.0
+    },
+    {
+        "image_id": "abdomcirc_171.png",
+        "question": "Can you provide an estimate of the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4153",
+            "(B) 2759",
+            "(C) 5575",
+            "(D) 1775"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4153.0
+    },
+    {
+        "image_id": "abdomcirc_172.png",
+        "question": "Can you estimate the pixel area corresponding to the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 12568",
+            "(B) 15849",
+            "(C) 9380",
+            "(D) 6346"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9380.0
+    },
+    {
+        "image_id": "abdomcirc_175.png",
+        "question": "Could you provide an estimate of the fetal stomach area in pixels as represented in this ultrasound image?",
+        "options": [
+            "(A) 4023",
+            "(B) 8428",
+            "(C) 2414",
+            "(D) 6032"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6032.0
+    },
+    {
+        "image_id": "abdomcirc_177.png",
+        "question": "Can you estimate the pixel volume of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 1140",
+            "(B) 1836",
+            "(C) 1550",
+            "(D) 695"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1140.0
+    },
+    {
+        "image_id": "abdomcirc_178.png",
+        "question": "Could you assess the ultrasound image and provide an estimation of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 6704",
+            "(B) 3086",
+            "(C) 4491",
+            "(D) 8524"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6704.0
+    },
+    {
+        "image_id": "abdomcirc_180.png",
+        "question": "What would you estimate the pixel area of the fetal stomach to be in this ultrasound image?",
+        "options": [
+            "(A) 5759",
+            "(B) 4316",
+            "(C) 6600",
+            "(D) 2943"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4316.0
+    },
+    {
+        "image_id": "abdomcirc_181.png",
+        "question": "Can you determine the estimated pixel area corresponding to the fetal stomach from this ultrasound image?",
+        "options": [
+            "(A) 6530",
+            "(B) 4417",
+            "(C) 8609",
+            "(D) 2835"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6530.0
+    },
+    {
+        "image_id": "abdomcirc_182.png",
+        "question": "What is your estimation of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 3554",
+            "(B) 1691",
+            "(C) 4554",
+            "(D) 2463"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3554.0
+    },
+    {
+        "image_id": "abdomcirc_183.png",
+        "question": "Can you assess the provided ultrasound image and estimate the pixel area representing the fetal stomach?",
+        "options": [
+            "(A) 2208",
+            "(B) 1072",
+            "(C) 1461",
+            "(D) 1932"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1461.0
+    },
+    {
+        "image_id": "abdomcirc_186.png",
+        "question": "What is your estimation of the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 1599",
+            "(B) 3564",
+            "(C) 4466",
+            "(D) 2168"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 3564.0
+    },
+    {
+        "image_id": "abdomcirc_189.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels as shown in this ultrasound image?",
+        "options": [
+            "(A) 918",
+            "(B) 1725",
+            "(C) 1274",
+            "(D) 534"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1274.0
+    },
+    {
+        "image_id": "abdomcirc_190.png",
+        "question": "How many pixels represent the estimated volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 10983",
+            "(B) 8025",
+            "(C) 5375",
+            "(D) 3640"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 8025.0
+    },
+    {
+        "image_id": "abdomcirc_192.png",
+        "question": "What is the estimated pixel volume of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 7216",
+            "(B) 4742",
+            "(C) 3474",
+            "(D) 6525"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4742.0
+    },
+    {
+        "image_id": "abdomcirc_199.png",
+        "question": "Could you provide an estimate of the fetal stomach volume as measured in pixels from the ultrasound image?",
+        "options": [
+            "(A) 7062",
+            "(B) 9666",
+            "(C) 14839",
+            "(D) 13203"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9666.0
+    },
+    {
+        "image_id": "abdomcirc_201.png",
+        "question": "Could you provide an estimate of the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 959",
+            "(B) 1601",
+            "(C) 1226",
+            "(D) 636"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 959.0
+    },
+    {
+        "image_id": "abdomcirc_208.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 7158",
+            "(B) 4381",
+            "(C) 3546",
+            "(D) 9149"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7158.0
+    },
+    {
+        "image_id": "abdomcirc_209.png",
+        "question": "Can you provide an estimation of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 1395",
+            "(B) 3400",
+            "(C) 4675",
+            "(D) 2435"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 3400.0
+    },
+    {
+        "image_id": "abdomcirc_215.png",
+        "question": "Please assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels.",
+        "options": [
+            "(A) 4818",
+            "(B) 6620",
+            "(C) 3603",
+            "(D) 2293"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4818.0
+    },
+    {
+        "image_id": "abdomcirc_217.png",
+        "question": "Could you assess the image and provide an estimate for the total pixel area of the fetal stomach?",
+        "options": [
+            "(A) 10505",
+            "(B) 13159",
+            "(C) 7639",
+            "(D) 4913"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 10505.0
+    },
+    {
+        "image_id": "abdomcirc_219.png",
+        "question": "Can you estimate the total pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4274",
+            "(B) 6754",
+            "(C) 10566",
+            "(D) 8650"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 6754.0
+    },
+    {
+        "image_id": "abdomcirc_220.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the stomach volume in pixel count?",
+        "options": [
+            "(A) 3840",
+            "(B) 2139",
+            "(C) 4567",
+            "(D) 2914"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 2914.0
+    },
+    {
+        "image_id": "abdomcirc_221.png",
+        "question": "Could you estimate the pixel volume of the fetal stomach as represented in this ultrasound image?",
+        "options": [
+            "(A) 3006",
+            "(B) 1758",
+            "(C) 1050",
+            "(D) 2388"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 2388.0
+    },
+    {
+        "image_id": "abdomcirc_226.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 2647",
+            "(B) 4296",
+            "(C) 7572",
+            "(D) 6048"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6048.0
+    },
+    {
+        "image_id": "abdomcirc_227.png",
+        "question": "What is the estimated pixel volume of the fetal stomach as shown in this ultrasound image?",
+        "options": [
+            "(A) 10248",
+            "(B) 4142",
+            "(C) 7247",
+            "(D) 13672"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 10248.0
+    },
+    {
+        "image_id": "abdomcirc_231.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach's volume in pixel measurements?",
+        "options": [
+            "(A) 13350",
+            "(B) 9358",
+            "(C) 6405",
+            "(D) 17825"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 13350.0
+    },
+    {
+        "image_id": "abdomcirc_234.png",
+        "question": "Can you provide an estimate of the gastric bubble volume in pixels from this ultrasound image?",
+        "options": [
+            "(A) 862",
+            "(B) 1892",
+            "(C) 1393",
+            "(D) 658"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1393.0
+    },
+    {
+        "image_id": "abdomcirc_235.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from the ultrasound image?",
+        "options": [
+            "(A) 14862",
+            "(B) 12361",
+            "(C) 9780",
+            "(D) 6153"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9780.0
+    },
+    {
+        "image_id": "abdomcirc_236.png",
+        "question": "Could you assess the ultrasound image and provide the estimated pixel area of the fetal stomach?",
+        "options": [
+            "(A) 6494",
+            "(B) 4134",
+            "(C) 2951",
+            "(D) 8576"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6494.0
+    },
+    {
+        "image_id": "abdomcirc_237.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 7034",
+            "(B) 8363",
+            "(C) 3861",
+            "(D) 5456"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5456.0
+    },
+    {
+        "image_id": "abdomcirc_238.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel count?",
+        "options": [
+            "(A) 3322",
+            "(B) 6726",
+            "(C) 7635",
+            "(D) 4895"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4895.0
+    },
+    {
+        "image_id": "abdomcirc_239.png",
+        "question": "Can you assess the ultrasound image and provide the estimated pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 7148",
+            "(B) 5170",
+            "(C) 2408",
+            "(D) 3253"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5170.0
+    },
+    {
+        "image_id": "abdomcirc_240.png",
+        "question": "Can you assess the ultrasound image and provide the estimated pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 3069",
+            "(B) 6171",
+            "(C) 1980",
+            "(D) 4824"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4824.0
+    },
+    {
+        "image_id": "abdomcirc_241.png",
+        "question": "What is your estimation of the fetal stomach's volume in pixels from this ultrasound image?",
+        "options": [
+            "(A) 6045",
+            "(B) 2878",
+            "(C) 4473",
+            "(D) 2162"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 4473.0
+    },
+    {
+        "image_id": "abdomcirc_242.png",
+        "question": "Could you estimate the pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 7219",
+            "(B) 11792",
+            "(C) 10064",
+            "(D) 5002"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7219.0
+    },
+    {
+        "image_id": "abdomcirc_244.png",
+        "question": "Using the provided ultrasound image, can you estimate the pixel volume of the fetal stomach?",
+        "options": [
+            "(A) 4277",
+            "(B) 5906",
+            "(C) 2645",
+            "(D) 6996"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 4277.0
+    },
+    {
+        "image_id": "abdomcirc_245.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 9884",
+            "(B) 3901",
+            "(C) 5728",
+            "(D) 7809"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 7809.0
+    },
+    {
+        "image_id": "abdomcirc_247.png",
+        "question": "Determine the estimated pixel area of the fetal stomach as seen in this ultrasound image.",
+        "options": [
+            "(A) 6080",
+            "(B) 7707",
+            "(C) 4523",
+            "(D) 2695"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6080.0
+    },
+    {
+        "image_id": "abdomcirc_250.png",
+        "question": "Can you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5957",
+            "(B) 3880",
+            "(C) 7760",
+            "(D) 2583"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5957.0
+    },
+    {
+        "image_id": "abdomcirc_251.png",
+        "question": "How many pixels represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3774",
+            "(B) 5341",
+            "(C) 8855",
+            "(D) 12361"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8855.0
+    },
+    {
+        "image_id": "abdomcirc_253.png",
+        "question": "What is your estimate of the fetal stomach volume in pixels based on the ultrasound image provided?",
+        "options": [
+            "(A) 8160",
+            "(B) 3983",
+            "(C) 5578",
+            "(D) 10855"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8160.0
+    },
+    {
+        "image_id": "abdomcirc_254.png",
+        "question": "Can you estimate the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 3125",
+            "(B) 8624",
+            "(C) 5178",
+            "(D) 6878"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5178.0
+    },
+    {
+        "image_id": "abdomcirc_255.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach's volume in pixels.",
+        "options": [
+            "(A) 4389",
+            "(B) 9966",
+            "(C) 8674",
+            "(D) 6247"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6247.0
+    },
+    {
+        "image_id": "abdomcirc_256.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 3366",
+            "(B) 5163",
+            "(C) 4274",
+            "(D) 2353"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3366.0
+    },
+    {
+        "image_id": "abdomcirc_257.png",
+        "question": "Could you provide an estimate of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 3558",
+            "(B) 5223",
+            "(C) 8303",
+            "(D) 6587"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5223.0
+    },
+    {
+        "image_id": "abdomcirc_258.png",
+        "question": "What is your estimate of the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6643",
+            "(B) 17719",
+            "(C) 10528",
+            "(D) 13549"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 10528.0
+    },
+    {
+        "image_id": "abdomcirc_259.png",
+        "question": "Please assess the provided ultrasound image and estimate the pixel area corresponding to the fetal stomach.",
+        "options": [
+            "(A) 12091",
+            "(B) 4522",
+            "(C) 9071",
+            "(D) 6559"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 9071.0
+    },
+    {
+        "image_id": "abdomcirc_261.png",
+        "question": "Assess the provided ultrasound image and estimate the pixel volume of the fetal stomach.",
+        "options": [
+            "(A) 5990",
+            "(B) 3781",
+            "(C) 11819",
+            "(D) 9350"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 9350.0
+    },
+    {
+        "image_id": "abdomcirc_262.png",
+        "question": "Can you estimate the total area of the fetal stomach in pixels from this ultrasound image?",
+        "options": [
+            "(A) 10715",
+            "(B) 7047",
+            "(C) 4629",
+            "(D) 14506"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 10715.0
+    },
+    {
+        "image_id": "abdomcirc_263.png",
+        "question": "Assess the provided ultrasound image and estimate the total area of the fetal stomach in pixels.",
+        "options": [
+            "(A) 7863",
+            "(B) 16832",
+            "(C) 12274",
+            "(D) 5179"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 12274.0
+    },
+    {
+        "image_id": "abdomcirc_264.png",
+        "question": "Can you estimate the pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 11276",
+            "(B) 5617",
+            "(C) 8308",
+            "(D) 12587"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8308.0
+    },
+    {
+        "image_id": "abdomcirc_265.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from the ultrasound image?",
+        "options": [
+            "(A) 7155",
+            "(B) 5182",
+            "(C) 9061",
+            "(D) 11726"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7155.0
+    },
+    {
+        "image_id": "abdomcirc_266.png",
+        "question": "Can you provide an estimate of the fetal stomach's volume in pixels based on the ultrasound image?",
+        "options": [
+            "(A) 3089",
+            "(B) 7034",
+            "(C) 9207",
+            "(D) 5157"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 7034.0
+    },
+    {
+        "image_id": "abdomcirc_267.png",
+        "question": "What is the estimated pixel area of the fetal stomach as observed in the ultrasound image?",
+        "options": [
+            "(A) 6482",
+            "(B) 3127",
+            "(C) 5089",
+            "(D) 2180"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5089.0
+    },
+    {
+        "image_id": "abdomcirc_268.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 7178",
+            "(B) 3437",
+            "(C) 5378",
+            "(D) 2629"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5378.0
+    },
+    {
+        "image_id": "abdomcirc_269.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels based on the ultrasound image?",
+        "options": [
+            "(A) 5978",
+            "(B) 8001",
+            "(C) 9543",
+            "(D) 4193"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5978.0
+    },
+    {
+        "image_id": "abdomcirc_270.png",
+        "question": "Can you provide an estimation of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 12684",
+            "(B) 5537",
+            "(C) 7965",
+            "(D) 10574"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 7965.0
+    },
+    {
+        "image_id": "abdomcirc_271.png",
+        "question": "What is your estimation of the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 13600",
+            "(B) 9000",
+            "(C) 5749",
+            "(D) 11360"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9000.0
+    },
+    {
+        "image_id": "abdomcirc_273.png",
+        "question": "Can you provide an estimate of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 6712",
+            "(B) 3807",
+            "(C) 5336",
+            "(D) 2213"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5336.0
+    },
+    {
+        "image_id": "abdomcirc_274.png",
+        "question": "Can you provide an estimate of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 14296",
+            "(B) 5437",
+            "(C) 8539",
+            "(D) 11687"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8539.0
+    },
+    {
+        "image_id": "abdomcirc_277.png",
+        "question": "What is your estimation of the fetal stomach volume in pixels based on the provided ultrasound image?",
+        "options": [
+            "(A) 2813",
+            "(B) 3599",
+            "(C) 7148",
+            "(D) 5710"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 5710.0
+    },
+    {
+        "image_id": "abdomcirc_279.png",
+        "question": "Assess the provided ultrasound image and estimate the pixel area of the fetal stomach.",
+        "options": [
+            "(A) 3990",
+            "(B) 11897",
+            "(C) 8864",
+            "(D) 6638"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8864.0
+    },
+    {
+        "image_id": "abdomcirc_280.png",
+        "question": "Can you approximate the pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5634",
+            "(B) 5195",
+            "(C) 2494",
+            "(D) 3713"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 3713.0
+    },
+    {
+        "image_id": "abdomcirc_281.png",
+        "question": "Could you estimate the pixel area representing the volume of the fetal stomach as shown in the ultrasound image?",
+        "options": [
+            "(A) 8508",
+            "(B) 5330",
+            "(C) 6842",
+            "(D) 3366"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5330.0
+    },
+    {
+        "image_id": "abdomcirc_282.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 9520",
+            "(B) 23564",
+            "(C) 14282",
+            "(D) 18678"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 14282.0
+    },
+    {
+        "image_id": "abdomcirc_284.png",
+        "question": "From the provided ultrasound image, can you estimate the pixel area representing the fetal stomach?",
+        "options": [
+            "(A) 5628",
+            "(B) 9650",
+            "(C) 18861",
+            "(D) 13762"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 13762.0
+    },
+    {
+        "image_id": "abdomcirc_286.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 6442",
+            "(B) 13931",
+            "(C) 8938",
+            "(D) 18096"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 13931.0
+    },
+    {
+        "image_id": "abdomcirc_287.png",
+        "question": "How many pixels do you estimate represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 13919",
+            "(B) 18816",
+            "(C) 9514",
+            "(D) 6830"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 13919.0
+    },
+    {
+        "image_id": "abdomcirc_288.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 7091",
+            "(B) 11539",
+            "(C) 8877",
+            "(D) 5138"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7091.0
+    },
+    {
+        "image_id": "abdomcirc_289.png",
+        "question": "Can you provide an estimate of the gastric bubble's volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 28208",
+            "(B) 17119",
+            "(C) 11254",
+            "(D) 22477"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 17119.0
+    },
+    {
+        "image_id": "abdomcirc_290.png",
+        "question": "What is your estimation of the fetal stomach's area in pixels as represented in this ultrasound image?",
+        "options": [
+            "(A) 11578",
+            "(B) 3799",
+            "(C) 8678",
+            "(D) 5409"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8678.0
+    },
+    {
+        "image_id": "abdomcirc_292.png",
+        "question": "What is the estimated pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 2688",
+            "(B) 4226",
+            "(C) 7026",
+            "(D) 5887"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4226.0
+    },
+    {
+        "image_id": "abdomcirc_293.png",
+        "question": "Could you estimate the pixel area corresponding to the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5388",
+            "(B) 4284",
+            "(C) 2759",
+            "(D) 1916"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4284.0
+    },
+    {
+        "image_id": "abdomcirc_294.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements?",
+        "options": [
+            "(A) 13108",
+            "(B) 15414",
+            "(C) 6847",
+            "(D) 9425"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 9425.0
+    },
+    {
+        "image_id": "abdomcirc_296.png",
+        "question": "Can you estimate the total pixel area of the fetal stomach visible in this ultrasound image?",
+        "options": [
+            "(A) 6113",
+            "(B) 9796",
+            "(C) 7931",
+            "(D) 4034"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6113.0
+    },
+    {
+        "image_id": "abdomcirc_297.png",
+        "question": "What is your estimation of the fetal stomach volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 6545",
+            "(B) 10174",
+            "(C) 4641",
+            "(D) 8783"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6545.0
+    },
+    {
+        "image_id": "abdomcirc_298.png",
+        "question": "Could you assess the ultrasound image and provide the estimated pixel area of the fetal stomach?",
+        "options": [
+            "(A) 4225",
+            "(B) 6071",
+            "(C) 7739",
+            "(D) 9882"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 6071.0
+    },
+    {
+        "image_id": "abdomcirc_299.png",
+        "question": "Can you provide an estimate of the gastric bubble's area in pixels from this ultrasound image?",
+        "options": [
+            "(A) 15108",
+            "(B) 19011",
+            "(C) 8085",
+            "(D) 11323"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 11323.0
+    },
+    {
+        "image_id": "abdomcirc_300.png",
+        "question": "Can you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 16625",
+            "(B) 12748",
+            "(C) 20663",
+            "(D) 8525"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 12748.0
+    },
+    {
+        "image_id": "abdomcirc_301.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 2126",
+            "(B) 6281",
+            "(C) 3078",
+            "(D) 4593"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 4593.0
+    },
+    {
+        "image_id": "abdomcirc_302.png",
+        "question": "What is your estimate for the total pixel area of the fetal stomach visible in this ultrasound image?",
+        "options": [
+            "(A) 8317",
+            "(B) 4016",
+            "(C) 5356",
+            "(D) 6905"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5356.0
+    },
+    {
+        "image_id": "abdomcirc_303.png",
+        "question": "Could you estimate the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 4818",
+            "(B) 9886",
+            "(C) 12710",
+            "(D) 6088"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 9886.0
+    },
+    {
+        "image_id": "abdomcirc_304.png",
+        "question": "From the provided ultrasound image, can you estimate the pixel area representing the volume of the fetal stomach?",
+        "options": [
+            "(A) 2570",
+            "(B) 6699",
+            "(C) 5147",
+            "(D) 3844"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5147.0
+    },
+    {
+        "image_id": "abdomcirc_305.png",
+        "question": "Could you estimate the total pixel area of the fetal stomach as depicted in this ultrasound image?",
+        "options": [
+            "(A) 23498",
+            "(B) 19674",
+            "(C) 10579",
+            "(D) 14289"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 14289.0
+    },
+    {
+        "image_id": "abdomcirc_309.png",
+        "question": "Can you provide an estimate of the fetal stomach's volume in pixels from this ultrasound image?",
+        "options": [
+            "(A) 11498",
+            "(B) 7239",
+            "(C) 14545",
+            "(D) 17782"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 11498.0
+    },
+    {
+        "image_id": "abdomcirc_310.png",
+        "question": "What is your estimate of the total pixel area representing the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 21305",
+            "(B) 18716",
+            "(C) 9264",
+            "(D) 13704"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 13704.0
+    },
+    {
+        "image_id": "abdomcirc_311.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 6393",
+            "(B) 19618",
+            "(C) 14879",
+            "(D) 10471"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 14879.0
+    },
+    {
+        "image_id": "abdomcirc_313.png",
+        "question": "Assess the ultrasound image and provide an estimation of the fetal stomach volume in pixel measurements.",
+        "options": [
+            "(A) 5347",
+            "(B) 9147",
+            "(C) 2905",
+            "(D) 7242"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 7242.0
+    },
+    {
+        "image_id": "abdomcirc_314.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 6841",
+            "(B) 10248",
+            "(C) 19144",
+            "(D) 15188"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 15188.0
+    },
+    {
+        "image_id": "abdomcirc_315.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 10434",
+            "(B) 8640",
+            "(C) 6182",
+            "(D) 4211"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 6182.0
+    },
+    {
+        "image_id": "abdomcirc_317.png",
+        "question": "Can you provide an estimation of the gastric bubble volume in pixels from the given ultrasound image?",
+        "options": [
+            "(A) 4398",
+            "(B) 5900",
+            "(C) 7617",
+            "(D) 2486"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 5900.0
+    },
+    {
+        "image_id": "abdomcirc_318.png",
+        "question": "Could you provide an estimate of the fetal stomach's volume in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 7511",
+            "(B) 11986",
+            "(C) 5301",
+            "(D) 9973"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 7511.0
+    },
+    {
+        "image_id": "abdomcirc_319.png",
+        "question": "How many pixels would you estimate represent the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 2304",
+            "(B) 4981",
+            "(C) 6847",
+            "(D) 3443"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4981.0
+    },
+    {
+        "image_id": "abdomcirc_320.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble's volume in pixels?",
+        "options": [
+            "(A) 18645",
+            "(B) 8037",
+            "(C) 11412",
+            "(D) 15836"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 11412.0
+    },
+    {
+        "image_id": "abdomcirc_321.png",
+        "question": "Can you provide an estimate of the pixel area corresponding to the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 5457",
+            "(B) 12773",
+            "(C) 8414",
+            "(D) 10757"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 8414.0
+    },
+    {
+        "image_id": "abdomcirc_322.png",
+        "question": "Could you estimate the total pixel area of the fetal stomach as seen in this ultrasound image?",
+        "options": [
+            "(A) 8167",
+            "(B) 3148",
+            "(C) 4317",
+            "(D) 6371"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6371.0
+    },
+    {
+        "image_id": "abdomcirc_323.png",
+        "question": "Can you determine the estimated pixel area of the fetal gastric bubble from this ultrasound image?",
+        "options": [
+            "(A) 5288",
+            "(B) 2427",
+            "(C) 6910",
+            "(D) 3390"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 5288.0
+    },
+    {
+        "image_id": "abdomcirc_324.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 7233",
+            "(B) 11882",
+            "(C) 15524",
+            "(D) 5030"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 11882.0
+    },
+    {
+        "image_id": "abdomcirc_325.png",
+        "question": "Assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels.",
+        "options": [
+            "(A) 3439",
+            "(B) 4766",
+            "(C) 2440",
+            "(D) 5552"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 3439.0
+    },
+    {
+        "image_id": "abdomcirc_326.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach's volume in pixels?",
+        "options": [
+            "(A) 16101",
+            "(B) 6635",
+            "(C) 10138",
+            "(D) 14073"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 10138.0
+    },
+    {
+        "image_id": "abdomcirc_327.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixel measurements?",
+        "options": [
+            "(A) 6597",
+            "(B) 4349",
+            "(C) 2708",
+            "(D) 9080"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 6597.0
+    },
+    {
+        "image_id": "abdomcirc_328.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 26700",
+            "(B) 20071",
+            "(C) 14001",
+            "(D) 9642"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 20071.0
+    },
+    {
+        "image_id": "abdomcirc_329.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 24554",
+            "(B) 7547",
+            "(C) 18616",
+            "(D) 12312"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 18616.0
+    },
+    {
+        "image_id": "abdomcirc_330.png",
+        "question": "Could you provide an estimate of the fetal stomach volume in pixels as represented in this ultrasound image?",
+        "options": [
+            "(A) 28219",
+            "(B) 12367",
+            "(C) 9649",
+            "(D) 20481"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 20481.0
+    },
+    {
+        "image_id": "abdomcirc_331.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble volume in pixel units?",
+        "options": [
+            "(A) 5964",
+            "(B) 11204",
+            "(C) 13612",
+            "(D) 8473"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 8473.0
+    },
+    {
+        "image_id": "abdomcirc_332.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels from the ultrasound image?",
+        "options": [
+            "(A) 3113",
+            "(B) 4816",
+            "(C) 8857",
+            "(D) 6692"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 6692.0
+    },
+    {
+        "image_id": "abdomcirc_339.png",
+        "question": "Could you estimate the gastric bubble volume in pixels from this ultrasound image?",
+        "options": [
+            "(A) 5617",
+            "(B) 4089",
+            "(C) 6374",
+            "(D) 2968"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 4089.0
+    },
+    {
+        "image_id": "abdomcirc_340.png",
+        "question": "Can you assess the ultrasound and provide an estimate of the fetal stomach volume in pixel measurements?",
+        "options": [
+            "(A) 7392",
+            "(B) 8552",
+            "(C) 5547",
+            "(D) 4114"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 5547.0
+    },
+    {
+        "image_id": "abdomcirc_341.png",
+        "question": "How many pixels represent the estimated volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 8500",
+            "(B) 3724",
+            "(C) 10815",
+            "(D) 5360"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 8500.0
+    },
+    {
+        "image_id": "abdomcirc_342.png",
+        "question": "What is the estimated pixel area representing the volume of the fetal stomach in this ultrasound image?",
+        "options": [
+            "(A) 6856",
+            "(B) 15058",
+            "(C) 11303",
+            "(D) 17527"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 11303.0
+    },
+    {
+        "image_id": "abdomcirc_343.png",
+        "question": "Can you estimate the total pixel area representing the fetal gastric bubble in this ultrasound image?",
+        "options": [
+            "(A) 10994",
+            "(B) 15175",
+            "(C) 19587",
+            "(D) 22867"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 15175.0
+    },
+    {
+        "image_id": "abdomcirc_345.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal stomach volume in pixels?",
+        "options": [
+            "(A) 18941",
+            "(B) 9001",
+            "(C) 26390",
+            "(D) 14122"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 18941.0
+    },
+    {
+        "image_id": "abdomcirc_347.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the gastric bubble's area in pixels?",
+        "options": [
+            "(A) 4038",
+            "(B) 2586",
+            "(C) 6456",
+            "(D) 8322"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 6456.0
+    },
+    {
+        "image_id": "abdomcirc_348.png",
+        "question": "Could you assess the ultrasound image and provide an estimate of the gastric bubble volume in pixels?",
+        "options": [
+            "(A) 3145",
+            "(B) 4074",
+            "(C) 6640",
+            "(D) 8990"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 6640.0
+    },
+    {
+        "image_id": "abdomcirc_349.png",
+        "question": "Assess the provided ultrasound image and estimate the pixel area of the fetal stomach.",
+        "options": [
+            "(A) 11911",
+            "(B) 9728",
+            "(C) 7625",
+            "(D) 5625"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 7625.0
+    },
+    {
+        "image_id": "abdomcirc_350.png",
+        "question": "Can you provide an estimate of the fetal stomach volume in pixels based on the ultrasound image?",
+        "options": [
+            "(A) 7828",
+            "(B) 10615",
+            "(C) 17818",
+            "(D) 13408"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 10615.0
+    }
+]

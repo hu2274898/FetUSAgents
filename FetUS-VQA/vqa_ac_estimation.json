@@ -1,0 +1,2246 @@
+[
+    {
+        "image_id": "0001.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixel dimensions from this ultrasound image.",
+        "options": [
+            "(A) 514",
+            "(B) 625",
+            "(C) 277",
+            "(D) 396"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 396.00268752176686
+    },
+    {
+        "image_id": "0002.png",
+        "question": "Determine the fetal abdominal circumference in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 451",
+            "(B) 749",
+            "(C) 332",
+            "(D) 589"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 451.2545005732152
+    },
+    {
+        "image_id": "0003.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 294",
+            "(B) 586",
+            "(C) 708",
+            "(D) 434"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 433.68415314113815
+    },
+    {
+        "image_id": "0004.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 185",
+            "(B) 244",
+            "(C) 510",
+            "(D) 395"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 394.544233830936
+    },
+    {
+        "image_id": "0006.png",
+        "question": "From the ultrasound image, can you determine the estimated abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 699",
+            "(B) 832",
+            "(C) 537",
+            "(D) 344"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 537.0177648234048
+    },
+    {
+        "image_id": "0007.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 293",
+            "(B) 468",
+            "(C) 586",
+            "(D) 205"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 467.91123262917415
+    },
+    {
+        "image_id": "0008.png",
+        "question": "Please provide an estimate for the fetal abdominal circumference in pixels based on the ultrasound image presented.",
+        "options": [
+            "(A) 328",
+            "(B) 449",
+            "(C) 245",
+            "(D) 550"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 327.56321651228893
+    },
+    {
+        "image_id": "0009.png",
+        "question": "How many pixels would you estimate the abdominal circumference of the fetus is in this ultrasound image?",
+        "options": [
+            "(A) 221",
+            "(B) 526",
+            "(C) 329",
+            "(D) 417"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 329.08196670465827
+    },
+    {
+        "image_id": "0010.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels from this ultrasound image?",
+        "options": [
+            "(A) 252",
+            "(B) 341",
+            "(C) 546",
+            "(D) 441"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 341.24743434276286
+    },
+    {
+        "image_id": "0012.png",
+        "question": "How many pixels would you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 718",
+            "(B) 534",
+            "(C) 872",
+            "(D) 345"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 533.9543834045651
+    },
+    {
+        "image_id": "0013.png",
+        "question": "From the provided ultrasound image, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 184",
+            "(B) 412",
+            "(C) 574",
+            "(D) 286"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 412.0413840144234
+    },
+    {
+        "image_id": "0014.png",
+        "question": "Could you provide an estimate of the fetal abdominal circumference in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 228",
+            "(B) 413",
+            "(C) 310",
+            "(D) 135"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 309.83357673656707
+    },
+    {
+        "image_id": "0015.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the displayed ultrasound image.",
+        "options": [
+            "(A) 382",
+            "(B) 169",
+            "(C) 427",
+            "(D) 274"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 273.66626255207063
+    },
+    {
+        "image_id": "0016.png",
+        "question": "From the ultrasound image, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 640",
+            "(B) 334",
+            "(C) 479",
+            "(D) 742"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 478.6644571828401
+    },
+    {
+        "image_id": "0017.png",
+        "question": "From the ultrasound image, can you provide an estimation of the fetal abdominal circumference in pixel measurements?",
+        "options": [
+            "(A) 482",
+            "(B) 226",
+            "(C) 363",
+            "(D) 616"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 363.1019125523216
+    },
+    {
+        "image_id": "0018.png",
+        "question": "What would be your estimation of the fetal abdominal circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 255",
+            "(B) 413",
+            "(C) 354",
+            "(D) 171"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 255.4084662208472
+    },
+    {
+        "image_id": "0019.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels based on this ultrasound image.",
+        "options": [
+            "(A) 168",
+            "(B) 333",
+            "(C) 263",
+            "(D) 438"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 262.80144460472934
+    },
+    {
+        "image_id": "0020.png",
+        "question": "Using the ultrasound image provided, can you estimate the abdominal circumference of the fetus in pixels?",
+        "options": [
+            "(A) 684",
+            "(B) 299",
+            "(C) 409",
+            "(D) 548"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 409.4306628537397
+    },
+    {
+        "image_id": "0021.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the displayed ultrasound image.",
+        "options": [
+            "(A) 396",
+            "(B) 521",
+            "(C) 251",
+            "(D) 599"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 396.440238180941
+    },
+    {
+        "image_id": "0022.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 214",
+            "(B) 304",
+            "(C) 462",
+            "(D) 385"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 303.64593548726043
+    },
+    {
+        "image_id": "0023.png",
+        "question": "Can you determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image?",
+        "options": [
+            "(A) 112",
+            "(B) 309",
+            "(C) 172",
+            "(D) 236"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 235.93868331604384
+    },
+    {
+        "image_id": "0025.png",
+        "question": "Can you provide an estimation of the fetal abdominal circumference in pixels from the ultrasound image displayed?",
+        "options": [
+            "(A) 547",
+            "(B) 320",
+            "(C) 433",
+            "(D) 181"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 433.1336666789931
+    },
+    {
+        "image_id": "0026.png",
+        "question": "Determine the approximate pixel measurement for the fetal abdominal circumference in the ultrasound image provided.",
+        "options": [
+            "(A) 200",
+            "(B) 312",
+            "(C) 424",
+            "(D) 126"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 311.95484950665934
+    },
+    {
+        "image_id": "0027.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 289",
+            "(B) 365",
+            "(C) 136",
+            "(D) 207"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 288.75013280572546
+    },
+    {
+        "image_id": "0028.png",
+        "question": "From the ultrasound image, can you estimate the fetal abdominal circumference in terms of pixels?",
+        "options": [
+            "(A) 184",
+            "(B) 442",
+            "(C) 287",
+            "(D) 596"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 441.62627766307423
+    },
+    {
+        "image_id": "0029.png",
+        "question": "How many pixels would you estimate the abdominal circumference of the fetus to be from this ultrasound image?",
+        "options": [
+            "(A) 429",
+            "(B) 309",
+            "(C) 226",
+            "(D) 489"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 309.08779175077484
+    },
+    {
+        "image_id": "0030.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 294",
+            "(B) 448",
+            "(C) 410",
+            "(D) 195"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 294.0032931211425
+    },
+    {
+        "image_id": "0031.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 486",
+            "(B) 233",
+            "(C) 371",
+            "(D) 182"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 371.0292205052996
+    },
+    {
+        "image_id": "0032.png",
+        "question": "How many pixels would you estimate represent the abdominal circumference of the fetus in this ultrasound image?",
+        "options": [
+            "(A) 201",
+            "(B) 381",
+            "(C) 282",
+            "(D) 467"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 282.47238942971615
+    },
+    {
+        "image_id": "0033.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 506",
+            "(B) 689",
+            "(C) 822",
+            "(D) 347"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 506.2930997140722
+    },
+    {
+        "image_id": "0034.png",
+        "question": "From the ultrasound image, can you determine the estimated abdominal circumference of the fetus in pixels?",
+        "options": [
+            "(A) 207",
+            "(B) 308",
+            "(C) 128",
+            "(D) 404"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 308.4926759954412
+    },
+    {
+        "image_id": "0035.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 308",
+            "(B) 190",
+            "(C) 126",
+            "(D) 257"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 189.86871090501663
+    },
+    {
+        "image_id": "0036.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 707",
+            "(B) 219",
+            "(C) 361",
+            "(D) 522"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 521.6170660532792
+    },
+    {
+        "image_id": "0037.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 447",
+            "(B) 623",
+            "(C) 282",
+            "(D) 198"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 447.0500643175197
+    },
+    {
+        "image_id": "0038.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels based on the ultrasound image displayed.",
+        "options": [
+            "(A) 497",
+            "(B) 359",
+            "(C) 163",
+            "(D) 244"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 358.6748678746304
+    },
+    {
+        "image_id": "0041.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 639",
+            "(B) 370",
+            "(C) 506",
+            "(D) 213"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 506.30200704384623
+    },
+    {
+        "image_id": "0042.png",
+        "question": "Can you determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image?",
+        "options": [
+            "(A) 229",
+            "(B) 311",
+            "(C) 413",
+            "(D) 508"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 311.41084459383615
+    },
+    {
+        "image_id": "0043.png",
+        "question": "What is your estimation of the fetal abdominal circumference in pixels from this ultrasound image?",
+        "options": [
+            "(A) 458",
+            "(B) 335",
+            "(C) 532",
+            "(D) 206"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 334.77801588099265
+    },
+    {
+        "image_id": "0044.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 299",
+            "(B) 477",
+            "(C) 803",
+            "(D) 604"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 476.8820920437669
+    },
+    {
+        "image_id": "0045.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the provided ultrasound image.",
+        "options": [
+            "(A) 448",
+            "(B) 180",
+            "(C) 323",
+            "(D) 560"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 447.6963956904504
+    },
+    {
+        "image_id": "0046.png",
+        "question": "From the provided ultrasound image, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 604",
+            "(B) 707",
+            "(C) 441",
+            "(D) 266"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 441.3276388366499
+    },
+    {
+        "image_id": "0047.png",
+        "question": "From the provided ultrasound image, can you estimate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 217",
+            "(B) 586",
+            "(C) 300",
+            "(D) 453"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 452.6872365224295
+    },
+    {
+        "image_id": "0048.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 585",
+            "(B) 452",
+            "(C) 681",
+            "(D) 300"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 451.9073039748493
+    },
+    {
+        "image_id": "0049.png",
+        "question": "From the given ultrasound image, can you estimate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 329",
+            "(B) 237",
+            "(C) 551",
+            "(D) 433"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 328.9775672130489
+    },
+    {
+        "image_id": "0050.png",
+        "question": "From the ultrasound image, can you estimate the abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 375",
+            "(B) 182",
+            "(C) 473",
+            "(D) 294"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 294.17644823081446
+    },
+    {
+        "image_id": "0051.png",
+        "question": "From the provided ultrasound image, can you estimate the abdominal circumference of the fetus in pixels?",
+        "options": [
+            "(A) 128",
+            "(B) 312",
+            "(C) 394",
+            "(D) 216"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 312.34355094669115
+    },
+    {
+        "image_id": "0052.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 352",
+            "(B) 504",
+            "(C) 684",
+            "(D) 841"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 504.34666988526095
+    },
+    {
+        "image_id": "0053.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 383",
+            "(B) 290",
+            "(C) 205",
+            "(D) 124"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 289.92766469785033
+    },
+    {
+        "image_id": "0054.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 512",
+            "(B) 225",
+            "(C) 418",
+            "(D) 331"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 330.5273425190289
+    },
+    {
+        "image_id": "0055.png",
+        "question": "Can you provide an estimate of the fetal abdominal circumference in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 462",
+            "(B) 356",
+            "(C) 180",
+            "(D) 283"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 283.2022446855186
+    },
+    {
+        "image_id": "0056.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 205",
+            "(B) 445",
+            "(C) 328",
+            "(D) 145"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 327.5191624890299
+    },
+    {
+        "image_id": "0057.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as shown in this ultrasound image.",
+        "options": [
+            "(A) 286",
+            "(B) 382",
+            "(C) 185",
+            "(D) 458"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 286.0989466761021
+    },
+    {
+        "image_id": "0058.png",
+        "question": "From the ultrasound image, what is your estimation of the fetal abdominal circumference in pixel measurements?",
+        "options": [
+            "(A) 389",
+            "(B) 266",
+            "(C) 177",
+            "(D) 511"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 389.31676620848464
+    },
+    {
+        "image_id": "0059.png",
+        "question": "How many pixels would you estimate for the abdominal circumference of the fetus as seen in this ultrasound image?",
+        "options": [
+            "(A) 124",
+            "(B) 214",
+            "(C) 403",
+            "(D) 290"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 290.07199287860806
+    },
+    {
+        "image_id": "0060.png",
+        "question": "What would you estimate the pixel measurement of the fetal abdominal circumference to be in this ultrasound image?",
+        "options": [
+            "(A) 465",
+            "(B) 362",
+            "(C) 224",
+            "(D) 591"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 361.7659432743468
+    },
+    {
+        "image_id": "0061.png",
+        "question": "Approximate the fetal abdominal circumference in pixels based on the ultrasound image provided.",
+        "options": [
+            "(A) 198",
+            "(B) 493",
+            "(C) 297",
+            "(D) 408"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 297.253486207125
+    },
+    {
+        "image_id": "0062.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the provided ultrasound image.",
+        "options": [
+            "(A) 536",
+            "(B) 405",
+            "(C) 222",
+            "(D) 324"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 324.01081580046184
+    },
+    {
+        "image_id": "0064.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 298",
+            "(B) 197",
+            "(C) 409",
+            "(D) 480"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 298.15017188295724
+    },
+    {
+        "image_id": "0065.png",
+        "question": "Determine the approximate measurement of the fetal abdominal circumference in pixels from this ultrasound image.",
+        "options": [
+            "(A) 188",
+            "(B) 358",
+            "(C) 280",
+            "(D) 127"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 280.2455258281713
+    },
+    {
+        "image_id": "0066.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in the ultrasound image.",
+        "options": [
+            "(A) 350",
+            "(B) 457",
+            "(C) 526",
+            "(D) 261"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 349.9917457697123
+    },
+    {
+        "image_id": "0067.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 220",
+            "(B) 498",
+            "(C) 423",
+            "(D) 329"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 328.7105163019444
+    },
+    {
+        "image_id": "0068.png",
+        "question": "Please provide an estimate of the fetal abdominal circumference in pixels based on the ultrasound image presented.",
+        "options": [
+            "(A) 539",
+            "(B) 341",
+            "(C) 211",
+            "(D) 453"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 340.68927371823213
+    },
+    {
+        "image_id": "0069.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 326",
+            "(B) 547",
+            "(C) 431",
+            "(D) 232"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 325.52416700078703
+    },
+    {
+        "image_id": "0070.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels from this ultrasound image?",
+        "options": [
+            "(A) 455",
+            "(B) 240",
+            "(C) 164",
+            "(D) 355"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 355.1391432950484
+    },
+    {
+        "image_id": "0071.png",
+        "question": "From the ultrasound image, what would you estimate the abdominal circumference of the fetus to be in pixels?",
+        "options": [
+            "(A) 246",
+            "(B) 376",
+            "(C) 338",
+            "(D) 166"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 246.37761144967928
+    },
+    {
+        "image_id": "0073.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 327",
+            "(B) 244",
+            "(C) 151",
+            "(D) 368"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 244.32301891551523
+    },
+    {
+        "image_id": "0074.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference from the ultrasound image provided.",
+        "options": [
+            "(A) 655",
+            "(B) 603",
+            "(C) 436",
+            "(D) 312"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 436.3805202739305
+    },
+    {
+        "image_id": "0076.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as shown in the ultrasound image.",
+        "options": [
+            "(A) 465",
+            "(B) 340",
+            "(C) 164",
+            "(D) 241"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 340.39332583137184
+    },
+    {
+        "image_id": "0077.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 548",
+            "(B) 346",
+            "(C) 235",
+            "(D) 482"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 346.08964563044884
+    },
+    {
+        "image_id": "0078.png",
+        "question": "From the ultrasound image, can you provide an estimate of the fetal abdominal circumference in pixel measurements?",
+        "options": [
+            "(A) 681",
+            "(B) 395",
+            "(C) 534",
+            "(D) 822"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 533.7439311945777
+    },
+    {
+        "image_id": "0079.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 477",
+            "(B) 333",
+            "(C) 733",
+            "(D) 622"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 477.1398569801668
+    },
+    {
+        "image_id": "0080.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 392",
+            "(B) 163",
+            "(C) 522",
+            "(D) 243"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 391.92385930502735
+    },
+    {
+        "image_id": "0081.png",
+        "question": "Can you provide an estimate of the fetal abdominal circumference in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 509",
+            "(B) 272",
+            "(C) 641",
+            "(D) 388"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 387.9246756560783
+    },
+    {
+        "image_id": "0082.png",
+        "question": "From the provided ultrasound image, how many pixels would you estimate for the fetal abdominal circumference?",
+        "options": [
+            "(A) 693",
+            "(B) 232",
+            "(C) 535",
+            "(D) 389"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 534.9961421448882
+    },
+    {
+        "image_id": "0083.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal abdominal circumference in pixels.",
+        "options": [
+            "(A) 534",
+            "(B) 241",
+            "(C) 353",
+            "(D) 690"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 533.6305325750113
+    },
+    {
+        "image_id": "0084.png",
+        "question": "Assess the abdominal circumference of the fetus in this ultrasound image and provide an estimate in pixels.",
+        "options": [
+            "(A) 327",
+            "(B) 216",
+            "(C) 648",
+            "(D) 485"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 485.2750590616095
+    },
+    {
+        "image_id": "0085.png",
+        "question": "Can you estimate the fetal abdominal circumference in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 587",
+            "(B) 499",
+            "(C) 271",
+            "(D) 390"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 390.4546058572919
+    },
+    {
+        "image_id": "0086.png",
+        "question": "Determine the approximate pixel measurement of the fetal abdominal circumference in this ultrasound image.",
+        "options": [
+            "(A) 275",
+            "(B) 416",
+            "(C) 625",
+            "(D) 547"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 416.2490212587161
+    },
+    {
+        "image_id": "0087.png",
+        "question": "Determine the approximate abdominal circumference of the fetus in this ultrasound image, measured in pixels.",
+        "options": [
+            "(A) 291",
+            "(B) 581",
+            "(C) 186",
+            "(D) 419"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 418.7529732799837
+    },
+    {
+        "image_id": "0088.png",
+        "question": "From the provided ultrasound image, how many pixels do you estimate the fetal abdominal circumference to be?",
+        "options": [
+            "(A) 825",
+            "(B) 494",
+            "(C) 633",
+            "(D) 301"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 493.6140489954244
+    },
+    {
+        "image_id": "0089.png",
+        "question": "From the ultrasound image, can you determine the estimated abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 418",
+            "(B) 629",
+            "(C) 290",
+            "(D) 571"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 418.4930552247556
+    },
+    {
+        "image_id": "0090.png",
+        "question": "Determine the approximate abdominal circumference of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 246",
+            "(B) 160",
+            "(C) 484",
+            "(D) 368"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 368.27775667706135
+    },
+    {
+        "image_id": "0091.png",
+        "question": "Determine the approximate pixel measurement of the fetal abdominal circumference as depicted in this ultrasound image.",
+        "options": [
+            "(A) 213",
+            "(B) 269",
+            "(C) 338",
+            "(D) 136"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 212.53141051884083
+    },
+    {
+        "image_id": "0092.png",
+        "question": "Assess the fetal abdominal circumference in pixels based on the ultrasound image provided.",
+        "options": [
+            "(A) 181",
+            "(B) 524",
+            "(C) 381",
+            "(D) 269"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 380.78948516072535
+    },
+    {
+        "image_id": "0093.png",
+        "question": "Using the ultrasound image provided, can you estimate the abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 162",
+            "(B) 529",
+            "(C) 384",
+            "(D) 260"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 383.62315273132447
+    },
+    {
+        "image_id": "0094.png",
+        "question": "From the ultrasound image, how many pixels would you estimate for the fetal abdominal circumference?",
+        "options": [
+            "(A) 472",
+            "(B) 425",
+            "(C) 313",
+            "(D) 230"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 313.16611839333467
+    },
+    {
+        "image_id": "0095.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in this ultrasound image in pixel measurements.",
+        "options": [
+            "(A) 259",
+            "(B) 580",
+            "(C) 208",
+            "(D) 424"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 424.2143340374803
+    },
+    {
+        "image_id": "0096.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 332",
+            "(B) 146",
+            "(C) 420",
+            "(D) 219"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 331.6558017514036
+    },
+    {
+        "image_id": "0097.png",
+        "question": "Determine the approximate pixel measurement of the fetal abdominal circumference from the ultrasound image provided.",
+        "options": [
+            "(A) 282",
+            "(B) 390",
+            "(C) 501",
+            "(D) 187"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 390.3439016322184
+    },
+    {
+        "image_id": "0098.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference from this ultrasound image.",
+        "options": [
+            "(A) 621",
+            "(B) 402",
+            "(C) 538",
+            "(D) 244"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 401.9766238220143
+    },
+    {
+        "image_id": "0099.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the provided ultrasound image.",
+        "options": [
+            "(A) 224",
+            "(B) 643",
+            "(C) 278",
+            "(D) 460"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 459.70459792334094
+    },
+    {
+        "image_id": "0100.png",
+        "question": "From the ultrasound image, can you approximate the fetal abdominal circumference in pixel measurement?",
+        "options": [
+            "(A) 459",
+            "(B) 305",
+            "(C) 592",
+            "(D) 216"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 458.6246253330417
+    },
+    {
+        "image_id": "0101.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 464",
+            "(B) 195",
+            "(C) 314",
+            "(D) 598"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 464.4503826159467
+    },
+    {
+        "image_id": "0102.png",
+        "question": "From the ultrasound provided, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 133",
+            "(B) 327",
+            "(C) 445",
+            "(D) 207"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 326.85567867831065
+    },
+    {
+        "image_id": "0103.png",
+        "question": "Assess the fetal abdominal circumference from this ultrasound image and provide your estimate in pixels.",
+        "options": [
+            "(A) 214",
+            "(B) 131",
+            "(C) 423",
+            "(D) 326"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 325.7207534942112
+    },
+    {
+        "image_id": "0104.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 444",
+            "(B) 353",
+            "(C) 159",
+            "(D) 223"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 352.60794533585545
+    },
+    {
+        "image_id": "0105.png",
+        "question": "From the ultrasound provided, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 161",
+            "(B) 241",
+            "(C) 470",
+            "(D) 363"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 362.88817137276567
+    },
+    {
+        "image_id": "0106.png",
+        "question": "What is your estimation of the fetal abdominal circumference in pixels as observed in this ultrasound image?",
+        "options": [
+            "(A) 343",
+            "(B) 517",
+            "(C) 799",
+            "(D) 650"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 516.7707965382698
+    },
+    {
+        "image_id": "0107.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal abdominal circumference in pixels.",
+        "options": [
+            "(A) 433",
+            "(B) 204",
+            "(C) 315",
+            "(D) 594"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 432.64729080925366
+    },
+    {
+        "image_id": "0108.png",
+        "question": "Determine the estimated fetal abdominal circumference in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 170",
+            "(B) 296",
+            "(C) 587",
+            "(D) 424"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 423.69512338663424
+    },
+    {
+        "image_id": "0109.png",
+        "question": "Determine the approximate pixel measurement of the fetal abdominal circumference from the ultrasound image provided.",
+        "options": [
+            "(A) 417",
+            "(B) 561",
+            "(C) 283",
+            "(D) 695"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 416.9664927776655
+    },
+    {
+        "image_id": "0110.png",
+        "question": "Determine the estimated pixel measurement for the abdominal circumference of the fetus depicted in this ultrasound image.",
+        "options": [
+            "(A) 186",
+            "(B) 531",
+            "(C) 403",
+            "(D) 272"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 403.1185891779795
+    },
+    {
+        "image_id": "0111.png",
+        "question": "What is your estimate for the fetal abdominal circumference in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 296",
+            "(B) 621",
+            "(C) 399",
+            "(D) 549"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 398.7461958120605
+    },
+    {
+        "image_id": "0112.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference from this ultrasound image.",
+        "options": [
+            "(A) 323",
+            "(B) 595",
+            "(C) 197",
+            "(D) 435"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 434.7635058708814
+    },
+    {
+        "image_id": "0113.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as seen in this ultrasound image.",
+        "options": [
+            "(A) 473",
+            "(B) 301",
+            "(C) 206",
+            "(D) 632"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 472.8321436234472
+    },
+    {
+        "image_id": "0114.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 187",
+            "(B) 447",
+            "(C) 293",
+            "(D) 568"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 446.9491932766844
+    },
+    {
+        "image_id": "0115.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 302",
+            "(B) 188",
+            "(C) 436",
+            "(D) 551"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 435.9924117209104
+    },
+    {
+        "image_id": "0116.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 273",
+            "(B) 395",
+            "(C) 545",
+            "(D) 669"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 395.2091570579085
+    },
+    {
+        "image_id": "0117.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 292",
+            "(B) 396",
+            "(C) 518",
+            "(D) 660"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 396.3743610624449
+    },
+    {
+        "image_id": "0118.png",
+        "question": "Assess the fetal abdominal circumference in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 547",
+            "(B) 424",
+            "(C) 643",
+            "(D) 310"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 424.3342762030081
+    },
+    {
+        "image_id": "0119.png",
+        "question": "From the ultrasound image, what do you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 219",
+            "(B) 445",
+            "(C) 586",
+            "(D) 286"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 444.8575983834732
+    },
+    {
+        "image_id": "0120.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the displayed ultrasound image.",
+        "options": [
+            "(A) 711",
+            "(B) 433",
+            "(C) 281",
+            "(D) 542"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 433.0651378279401
+    },
+    {
+        "image_id": "0121.png",
+        "question": "Determine the pixel measurement for the fetal abdominal circumference as depicted in this ultrasound image.",
+        "options": [
+            "(A) 286",
+            "(B) 455",
+            "(C) 593",
+            "(D) 697"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 454.9399883123263
+    },
+    {
+        "image_id": "0122.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels based on the ultrasound image provided.",
+        "options": [
+            "(A) 527",
+            "(B) 167",
+            "(C) 293",
+            "(D) 395"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 394.5010814847458
+    },
+    {
+        "image_id": "0123.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 608",
+            "(B) 393",
+            "(C) 246",
+            "(D) 546"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 392.8520884893077
+    },
+    {
+        "image_id": "0124.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 478",
+            "(B) 273",
+            "(C) 365",
+            "(D) 580"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 365.4759899459932
+    },
+    {
+        "image_id": "0125.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on the ultrasound image provided?",
+        "options": [
+            "(A) 183",
+            "(B) 275",
+            "(C) 419",
+            "(D) 533"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 419.3591485608408
+    },
+    {
+        "image_id": "0126.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the displayed ultrasound image.",
+        "options": [
+            "(A) 581",
+            "(B) 186",
+            "(C) 448",
+            "(D) 292"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 448.2604344511296
+    },
+    {
+        "image_id": "0127.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 677",
+            "(B) 418",
+            "(C) 573",
+            "(D) 262"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 417.9465335533455
+    },
+    {
+        "image_id": "0128.png",
+        "question": "From the ultrasound image, can you estimate the abdominal circumference of the fetus in pixel measurement?",
+        "options": [
+            "(A) 813",
+            "(B) 351",
+            "(C) 504",
+            "(D) 662"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 504.35099272264586
+    },
+    {
+        "image_id": "0129.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 670",
+            "(B) 229",
+            "(C) 520",
+            "(D) 380"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 520.3507009781443
+    },
+    {
+        "image_id": "0130.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 310",
+            "(B) 415",
+            "(C) 564",
+            "(D) 686"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 415.4027917035717
+    },
+    {
+        "image_id": "0131.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 311",
+            "(B) 216",
+            "(C) 446",
+            "(D) 613"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 446.3439364050221
+    },
+    {
+        "image_id": "0132.png",
+        "question": "What would you estimate the abdominal circumference of the fetus to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 453",
+            "(B) 289",
+            "(C) 589",
+            "(D) 709"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 453.1638274193499
+    },
+    {
+        "image_id": "0133.png",
+        "question": "From the ultrasound image provided, can you estimate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 524",
+            "(B) 622",
+            "(C) 379",
+            "(D) 237"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 378.6676335775178
+    },
+    {
+        "image_id": "0134.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 351",
+            "(B) 165",
+            "(C) 261",
+            "(D) 487"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 351.0472344396637
+    },
+    {
+        "image_id": "0135.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 423",
+            "(B) 530",
+            "(C) 257",
+            "(D) 691"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 423.1808206291312
+    },
+    {
+        "image_id": "0136.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 227",
+            "(B) 295",
+            "(C) 104",
+            "(D) 140"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 227.30364750399423
+    },
+    {
+        "image_id": "0137.png",
+        "question": "From the ultrasound image, can you estimate the abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 304",
+            "(B) 447",
+            "(C) 833",
+            "(D) 634"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 634.3199067639031
+    },
+    {
+        "image_id": "0138.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the provided ultrasound image.",
+        "options": [
+            "(A) 393",
+            "(B) 268",
+            "(C) 492",
+            "(D) 641"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 392.94925624991015
+    },
+    {
+        "image_id": "0139.png",
+        "question": "Determine the estimated pixel value for the abdominal circumference of the fetus depicted in this ultrasound image.",
+        "options": [
+            "(A) 675",
+            "(B) 517",
+            "(C) 410",
+            "(D) 255"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 409.745006755014
+    },
+    {
+        "image_id": "0140.png",
+        "question": "What is your estimation of the fetal abdominal circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 238",
+            "(B) 159",
+            "(C) 333",
+            "(D) 433"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 332.74653926294934
+    },
+    {
+        "image_id": "0141.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 319",
+            "(B) 506",
+            "(C) 207",
+            "(D) 430"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 318.9088644643662
+    },
+    {
+        "image_id": "0142.png",
+        "question": "From this ultrasound image, what would you estimate the abdominal circumference of the fetus to be in pixels?",
+        "options": [
+            "(A) 128",
+            "(B) 403",
+            "(C) 226",
+            "(D) 318"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 317.603794006149
+    },
+    {
+        "image_id": "0143.png",
+        "question": "Determine the estimated abdominal circumference (AC) of the fetus in this ultrasound image, expressed in pixels.",
+        "options": [
+            "(A) 355",
+            "(B) 233",
+            "(C) 541",
+            "(D) 446"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 355.2488853085491
+    },
+    {
+        "image_id": "0144.png",
+        "question": "From the ultrasound image provided, can you approximate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 336",
+            "(B) 213",
+            "(C) 531",
+            "(D) 467"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 336.2933270189791
+    },
+    {
+        "image_id": "0145.png",
+        "question": "From the ultrasound image, can you determine the approximate pixel measurement of the fetal abdominal circumference?",
+        "options": [
+            "(A) 250",
+            "(B) 158",
+            "(C) 357",
+            "(D) 452"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 356.75222280192565
+    },
+    {
+        "image_id": "0146.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 377",
+            "(B) 730",
+            "(C) 242",
+            "(D) 542"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 541.8940950185446
+    },
+    {
+        "image_id": "0147.png",
+        "question": "How many pixels do you estimate the fetal abdominal circumference to be in this ultrasound image?",
+        "options": [
+            "(A) 348",
+            "(B) 808",
+            "(C) 512",
+            "(D) 695"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 512.4263539181932
+    },
+    {
+        "image_id": "0148.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 274",
+            "(B) 206",
+            "(C) 535",
+            "(D) 425"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 425.0994999481475
+    },
+    {
+        "image_id": "0149.png",
+        "question": "How many pixels do you estimate the fetal abdominal circumference to measure in this ultrasound image?",
+        "options": [
+            "(A) 402",
+            "(B) 268",
+            "(C) 544",
+            "(D) 194"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 401.8320773183773
+    },
+    {
+        "image_id": "0150.png",
+        "question": "Can you determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image?",
+        "options": [
+            "(A) 378",
+            "(B) 171",
+            "(C) 506",
+            "(D) 260"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 377.8685036372879
+    },
+    {
+        "image_id": "0151.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 375",
+            "(B) 474",
+            "(C) 242",
+            "(D) 156"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 375.0495032880893
+    },
+    {
+        "image_id": "0152.png",
+        "question": "From the ultrasound image provided, can you estimate the abdominal circumference of the fetus in pixels?",
+        "options": [
+            "(A) 400",
+            "(B) 295",
+            "(C) 679",
+            "(D) 554"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 399.5939190108149
+    },
+    {
+        "image_id": "0153.png",
+        "question": "From the provided ultrasound image, can you estimate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 432",
+            "(B) 232",
+            "(C) 549",
+            "(D) 337"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 337.35541375709573
+    },
+    {
+        "image_id": "0154.png",
+        "question": "From the ultrasound image, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 331",
+            "(B) 230",
+            "(C) 426",
+            "(D) 144"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 330.6376261711316
+    },
+    {
+        "image_id": "0155.png",
+        "question": "From the ultrasound image provided, can you estimate the abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 275",
+            "(B) 565",
+            "(C) 422",
+            "(D) 662"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 421.9857887428311
+    },
+    {
+        "image_id": "0156.png",
+        "question": "Determine the estimated pixel measurement for the fetal abdominal circumference as seen in this ultrasound image.",
+        "options": [
+            "(A) 461",
+            "(B) 314",
+            "(C) 747",
+            "(D) 627"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 460.7849639756099
+    },
+    {
+        "image_id": "0157.png",
+        "question": "From the provided ultrasound image, can you estimate the fetal abdominal circumference in pixels?",
+        "options": [
+            "(A) 321",
+            "(B) 573",
+            "(C) 429",
+            "(D) 183"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 429.0263849528127
+    },
+    {
+        "image_id": "0158.png",
+        "question": "Assess the ultrasound image and provide an estimate of the fetal abdominal circumference in pixels.",
+        "options": [
+            "(A) 179",
+            "(B) 428",
+            "(C) 597",
+            "(D) 307"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 427.8369464935189
+    },
+    {
+        "image_id": "0159.png",
+        "question": "From the ultrasound image provided, can you estimate the abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 218",
+            "(B) 494",
+            "(C) 571",
+            "(D) 363"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 363.4067804903816
+    },
+    {
+        "image_id": "0160.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 288",
+            "(B) 133",
+            "(C) 175",
+            "(D) 376"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 287.8344285822777
+    },
+    {
+        "image_id": "0161.png",
+        "question": "What is your estimation of the fetal abdominal circumference in pixels based on the ultrasound image presented?",
+        "options": [
+            "(A) 624",
+            "(B) 406",
+            "(C) 278",
+            "(D) 535"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 405.5927480450986
+    },
+    {
+        "image_id": "0162.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound provided.",
+        "options": [
+            "(A) 347",
+            "(B) 478",
+            "(C) 744",
+            "(D) 607"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 477.6729862920879
+    },
+    {
+        "image_id": "0163.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the provided ultrasound image.",
+        "options": [
+            "(A) 298",
+            "(B) 194",
+            "(C) 374",
+            "(D) 460"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 297.5675807947425
+    },
+    {
+        "image_id": "0164.png",
+        "question": "Can you provide an estimate of the fetal abdominal circumference in pixel measurements from this ultrasound image?",
+        "options": [
+            "(A) 191",
+            "(B) 311",
+            "(C) 144",
+            "(D) 395"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 311.0319799135102
+    },
+    {
+        "image_id": "0165.png",
+        "question": "From the ultrasound image, what would you estimate the abdominal circumference of the fetus to be in pixels?",
+        "options": [
+            "(A) 322",
+            "(B) 237",
+            "(C) 441",
+            "(D) 140"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 321.5244465286779
+    },
+    {
+        "image_id": "0166.png",
+        "question": "What would you estimate the pixel measurement of the fetal abdominal circumference to be from this ultrasound image?",
+        "options": [
+            "(A) 391",
+            "(B) 348",
+            "(C) 260",
+            "(D) 160"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 259.6593249371326
+    },
+    {
+        "image_id": "0167.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 431",
+            "(B) 237",
+            "(C) 328",
+            "(D) 157"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 328.09634941300874
+    },
+    {
+        "image_id": "0170.png",
+        "question": "Determine the estimated pixel measurement for the abdominal circumference of the fetus in this ultrasound image.",
+        "options": [
+            "(A) 345",
+            "(B) 215",
+            "(C) 167",
+            "(D) 464"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 345.00210883311394
+    },
+    {
+        "image_id": "0171.png",
+        "question": "From the ultrasound provided, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 326",
+            "(B) 439",
+            "(C) 218",
+            "(D) 543"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 326.4277895653896
+    },
+    {
+        "image_id": "0172.png",
+        "question": "How many pixels would you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 147",
+            "(B) 239",
+            "(C) 339",
+            "(D) 454"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 339.2653788333479
+    },
+    {
+        "image_id": "0173.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixel measurements from this ultrasound image.",
+        "options": [
+            "(A) 231",
+            "(B) 452",
+            "(C) 528",
+            "(D) 325"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 324.5321301403976
+    },
+    {
+        "image_id": "0174.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference from the ultrasound image provided.",
+        "options": [
+            "(A) 181",
+            "(B) 332",
+            "(C) 389",
+            "(D) 255"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 255.4256727112984
+    },
+    {
+        "image_id": "0175.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 583",
+            "(B) 281",
+            "(C) 437",
+            "(D) 718"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 436.910424669268
+    },
+    {
+        "image_id": "0176.png",
+        "question": "From the provided ultrasound image, can you determine the estimated abdominal circumference of the fetus in pixels?",
+        "options": [
+            "(A) 439",
+            "(B) 683",
+            "(C) 563",
+            "(D) 278"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 438.96698157625207
+    },
+    {
+        "image_id": "0177.png",
+        "question": "What would be your estimation of the fetal abdominal circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 545",
+            "(B) 432",
+            "(C) 683",
+            "(D) 268"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 432.3955487122331
+    },
+    {
+        "image_id": "0178.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference depicted in this ultrasound image.",
+        "options": [
+            "(A) 349",
+            "(B) 246",
+            "(C) 141",
+            "(D) 478"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 348.6167241212468
+    },
+    {
+        "image_id": "0179.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 180",
+            "(B) 324",
+            "(C) 378",
+            "(D) 246"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 245.75601577610823
+    },
+    {
+        "image_id": "0180.png",
+        "question": "What is your estimate for the abdominal circumference of the fetus in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 273",
+            "(B) 195",
+            "(C) 132",
+            "(D) 348"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 273.01762883690515
+    },
+    {
+        "image_id": "0181.png",
+        "question": "From the provided ultrasound image, what would you estimate the fetal abdominal circumference to be in pixels?",
+        "options": [
+            "(A) 366",
+            "(B) 449",
+            "(C) 266",
+            "(D) 179"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 265.81795499814694
+    },
+    {
+        "image_id": "0182.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels based on this ultrasound image?",
+        "options": [
+            "(A) 222",
+            "(B) 129",
+            "(C) 414",
+            "(D) 298"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 297.73748926985934
+    },
+    {
+        "image_id": "0183.png",
+        "question": "From the ultrasound image provided, can you determine the estimated abdominal circumference of the fetus in pixel measurements?",
+        "options": [
+            "(A) 288",
+            "(B) 173",
+            "(C) 528",
+            "(D) 391"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 390.6031283531829
+    },
+    {
+        "image_id": "0184.png",
+        "question": "Assess the provided ultrasound image and estimate the abdominal circumference of the fetus in pixel dimensions.",
+        "options": [
+            "(A) 228",
+            "(B) 425",
+            "(C) 322",
+            "(D) 523"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 322.0586832660601
+    },
+    {
+        "image_id": "0185.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 123",
+            "(B) 291",
+            "(C) 387",
+            "(D) 199"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 290.6870397350368
+    },
+    {
+        "image_id": "0186.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 216",
+            "(B) 320",
+            "(C) 412",
+            "(D) 130"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 319.97988332014154
+    },
+    {
+        "image_id": "0187.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels from this ultrasound image?",
+        "options": [
+            "(A) 156",
+            "(B) 275",
+            "(C) 90",
+            "(D) 216"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 215.6452955831012
+    },
+    {
+        "image_id": "0188.png",
+        "question": "What would you estimate the fetal abdominal circumference to be in pixels from this ultrasound image?",
+        "options": [
+            "(A) 198",
+            "(B) 299",
+            "(C) 385",
+            "(D) 125"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 299.05083379816006
+    },
+    {
+        "image_id": "0189.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels as depicted in this ultrasound image.",
+        "options": [
+            "(A) 398",
+            "(B) 173",
+            "(C) 267",
+            "(D) 516"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 397.8264534502519
+    },
+    {
+        "image_id": "0190.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 157",
+            "(B) 488",
+            "(C) 357",
+            "(D) 226"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 356.5638597698278
+    },
+    {
+        "image_id": "0191.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from this ultrasound image.",
+        "options": [
+            "(A) 214",
+            "(B) 395",
+            "(C) 290",
+            "(D) 442"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 290.4544084164169
+    },
+    {
+        "image_id": "0192.png",
+        "question": "How many pixels do you estimate the abdominal circumference of the fetus to be in this ultrasound image?",
+        "options": [
+            "(A) 538",
+            "(B) 249",
+            "(C) 337",
+            "(D) 434"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 337.3689129688354
+    },
+    {
+        "image_id": "0193.png",
+        "question": "Determine the estimated pixel measurement for the abdominal circumference of the fetus in this ultrasound image.",
+        "options": [
+            "(A) 180",
+            "(B) 276",
+            "(C) 440",
+            "(D) 367"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 276.30131722097303
+    },
+    {
+        "image_id": "0194.png",
+        "question": "Determine the estimated abdominal circumference of the fetus in pixels from the ultrasound image provided.",
+        "options": [
+            "(A) 346",
+            "(B) 482",
+            "(C) 225",
+            "(D) 540"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 345.5473105920697
+    },
+    {
+        "image_id": "0195.png",
+        "question": "Determine the estimated pixel value for the abdominal circumference of the fetus depicted in this ultrasound image.",
+        "options": [
+            "(A) 183",
+            "(B) 400",
+            "(C) 546",
+            "(D) 262"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 399.75797105739787
+    },
+    {
+        "image_id": "0196.png",
+        "question": "What would you estimate the pixel measurement for the fetal abdominal circumference to be in this ultrasound image?",
+        "options": [
+            "(A) 268",
+            "(B) 370",
+            "(C) 192",
+            "(D) 431"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 268.3138024706839
+    },
+    {
+        "image_id": "0197.png",
+        "question": "Determine the estimated pixel measurement of the fetal abdominal circumference based on this ultrasound image.",
+        "options": [
+            "(A) 545",
+            "(B) 254",
+            "(C) 392",
+            "(D) 172"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 391.9929053414484
+    }
+]

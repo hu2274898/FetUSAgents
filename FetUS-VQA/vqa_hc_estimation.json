@@ -1,0 +1,902 @@
+[
+    {
+        "image_id": "patient001_DZA_plane1.png",
+        "question": "Can you assess the fetal head circumference as depicted in this ultrasound and provide an estimate in pixels?",
+        "options": [
+            "(A) 265",
+            "(B) 647",
+            "(C) 401",
+            "(D) 887"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 646.7338427852328
+    },
+    {
+        "image_id": "patient001_EGY_plane1.png",
+        "question": "Using the provided ultrasound image, can you assess and estimate the fetal head circumference in terms of pixel measurement?",
+        "options": [
+            "(A) 1282",
+            "(B) 804",
+            "(C) 2075",
+            "(D) 1777"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1281.775549734666
+    },
+    {
+        "image_id": "patient001_MWI_plane1.png",
+        "question": "Can you approximate the fetal head circumference in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 495",
+            "(B) 704",
+            "(C) 1366",
+            "(D) 1056"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 1055.571193295535
+    },
+    {
+        "image_id": "patient002_EGY_plane1.png",
+        "question": "Can you determine the estimated circumference of the fetal head in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 778",
+            "(B) 1481",
+            "(C) 1100",
+            "(D) 493"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1100.21327325448
+    },
+    {
+        "image_id": "patient002_MWI_plane1.png",
+        "question": "Can you calculate the estimated head circumference of the fetus in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 902",
+            "(B) 1228",
+            "(C) 592",
+            "(D) 1370"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 902.258323457942
+    },
+    {
+        "image_id": "patient003_EGY_plane1.png",
+        "question": "Can you determine the estimated pixel measurement for the head circumference of the fetus displayed in this ultrasound image?",
+        "options": [
+            "(A) 680",
+            "(B) 1033",
+            "(C) 1715",
+            "(D) 1427"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1032.903589891032
+    },
+    {
+        "image_id": "patient003_MWI_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 601",
+            "(B) 1326",
+            "(C) 1072",
+            "(D) 838"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 838.1864792409465
+    },
+    {
+        "image_id": "patient004_DZA_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in pixels from this ultrasound image?",
+        "options": [
+            "(A) 1027",
+            "(B) 621",
+            "(C) 375",
+            "(D) 861"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 620.7649724054883
+    },
+    {
+        "image_id": "patient004_EGY_plane1.png",
+        "question": "Can you assess the fetal head circumference from this ultrasound and provide the estimate in pixels?",
+        "options": [
+            "(A) 388",
+            "(B) 912",
+            "(C) 1231",
+            "(D) 650"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 911.5182071813524
+    },
+    {
+        "image_id": "patient004_MWI_plane1.png",
+        "question": "Can you provide an estimate for the fetal head circumference in pixels based on the provided ultrasound image?",
+        "options": [
+            "(A) 394",
+            "(B) 1174",
+            "(C) 596",
+            "(D) 906"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 906.4105911462173
+    },
+    {
+        "image_id": "patient005_EGY_plane1.png",
+        "question": "Can you assess the fetal head circumference depicted in this ultrasound image and provide an estimate in pixels?",
+        "options": [
+            "(A) 1394",
+            "(B) 752",
+            "(C) 1041",
+            "(D) 475"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1041.3158090760912
+    },
+    {
+        "image_id": "patient005_MWI_plane1.png",
+        "question": "From the provided ultrasound image, what would you estimate the head circumference (HC) of the fetus to be in pixel measurements?",
+        "options": [
+            "(A) 813",
+            "(B) 373",
+            "(C) 1124",
+            "(D) 592"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 813.3389094632882
+    },
+    {
+        "image_id": "patient006_EGY_plane1.png",
+        "question": "Could you provide an estimation of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 775",
+            "(B) 1288",
+            "(C) 1700",
+            "(D) 1991"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1288.0230359505265
+    },
+    {
+        "image_id": "patient007_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference measured in pixels from the ultrasound image presented?",
+        "options": [
+            "(A) 774",
+            "(B) 465",
+            "(C) 995",
+            "(D) 1267"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 774.0296719816789
+    },
+    {
+        "image_id": "patient007_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel dimensions as observed in this ultrasound image?",
+        "options": [
+            "(A) 1303",
+            "(B) 478",
+            "(C) 794",
+            "(D) 1060"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 794.2539539231027
+    },
+    {
+        "image_id": "patient007_MWI_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixel measurement from the ultrasound image presented?",
+        "options": [
+            "(A) 1026",
+            "(B) 784",
+            "(C) 514",
+            "(D) 1292"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 784.3687284511486
+    },
+    {
+        "image_id": "patient008_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel dimensions as viewed in this ultrasound image?",
+        "options": [
+            "(A) 434",
+            "(B) 1054",
+            "(C) 765",
+            "(D) 1468"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1054.3711570253654
+    },
+    {
+        "image_id": "patient008_MWI_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements based on the ultrasound image presented?",
+        "options": [
+            "(A) 917",
+            "(B) 1123",
+            "(C) 733",
+            "(D) 492"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 733.3713503166547
+    },
+    {
+        "image_id": "patient009_EGY_plane1.png",
+        "question": "Could you provide an estimate of the fetal head circumference measured in pixels from the ultrasound image presented?",
+        "options": [
+            "(A) 1544",
+            "(B) 954",
+            "(C) 1329",
+            "(D) 583"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 954.272952950756
+    },
+    {
+        "image_id": "patient009_MWI_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels based on the ultrasound image presented?",
+        "options": [
+            "(A) 357",
+            "(B) 735",
+            "(C) 927",
+            "(D) 479"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 734.6340542429834
+    },
+    {
+        "image_id": "patient010_EGY_plane1.png",
+        "question": "Could you provide an estimate of the fetal head circumference in pixel measurements from the ultrasound image presented?",
+        "options": [
+            "(A) 912",
+            "(B) 704",
+            "(C) 560",
+            "(D) 339"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 560.1421544997395
+    },
+    {
+        "image_id": "patient011_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements based on the ultrasound displayed?",
+        "options": [
+            "(A) 1051",
+            "(B) 496",
+            "(C) 729",
+            "(D) 1361"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1051.1974051517868
+    },
+    {
+        "image_id": "patient011_MWI_plane1.png",
+        "question": "Can you assess the fetal head circumference from this ultrasound image and provide an estimate in pixels?",
+        "options": [
+            "(A) 691",
+            "(B) 246",
+            "(C) 382",
+            "(D) 540"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 539.6511670066088
+    },
+    {
+        "image_id": "patient012_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 410",
+            "(B) 802",
+            "(C) 939",
+            "(D) 618"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 618.4471862953679
+    },
+    {
+        "image_id": "patient012_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference, expressed in pixels, from the ultrasound image presented?",
+        "options": [
+            "(A) 1212",
+            "(B) 886",
+            "(C) 1651",
+            "(D) 576"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1212.169843558985
+    },
+    {
+        "image_id": "patient012_MWI_plane1.png",
+        "question": "Can you assess the fetal head circumference from this ultrasound image and provide an estimate in pixels?",
+        "options": [
+            "(A) 560",
+            "(B) 1196",
+            "(C) 369",
+            "(D) 879"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 878.9460538809055
+    },
+    {
+        "image_id": "patient013_EGY_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus depicted in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 374",
+            "(B) 812",
+            "(C) 1110",
+            "(D) 494"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 812.1109737624824
+    },
+    {
+        "image_id": "patient013_MWI_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 1378",
+            "(B) 1124",
+            "(C) 871",
+            "(D) 615"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 871.4625464849064
+    },
+    {
+        "image_id": "patient014_DZA_plane1.png",
+        "question": "Could you provide an estimation of the fetal head circumference in pixels from the displayed ultrasound image?",
+        "options": [
+            "(A) 682",
+            "(B) 897",
+            "(C) 277",
+            "(D) 470"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 682.0596625028638
+    },
+    {
+        "image_id": "patient014_EGY_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 583",
+            "(B) 929",
+            "(C) 379",
+            "(D) 1240"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 928.575169130362
+    },
+    {
+        "image_id": "patient015_EGY_plane1.png",
+        "question": "Could you determine the estimated head circumference of the fetus in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 885",
+            "(B) 455",
+            "(C) 326",
+            "(D) 665"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 664.5056192041043
+    },
+    {
+        "image_id": "patient015_MWI_plane1.png",
+        "question": "Can you approximate the head circumference of the fetus in this ultrasound image, measured in pixels?",
+        "options": [
+            "(A) 446",
+            "(B) 718",
+            "(C) 294",
+            "(D) 1000"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 717.7194024263525
+    },
+    {
+        "image_id": "patient016_DZA_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixel dimensions based on this ultrasound image?",
+        "options": [
+            "(A) 302",
+            "(B) 981",
+            "(C) 738",
+            "(D) 536"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 738.2078968629203
+    },
+    {
+        "image_id": "patient016_EGY_plane1.png",
+        "question": "Can you approximate the fetal head circumference in pixels based on the provided ultrasound image?",
+        "options": [
+            "(A) 1722",
+            "(B) 1023",
+            "(C) 1300",
+            "(D) 712"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1022.8255229795727
+    },
+    {
+        "image_id": "patient016_MWI_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels based on the ultrasound image presented?",
+        "options": [
+            "(A) 439",
+            "(B) 1135",
+            "(C) 888",
+            "(D) 595"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 888.4674277610711
+    },
+    {
+        "image_id": "patient017_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements as observed in this ultrasound image?",
+        "options": [
+            "(A) 907",
+            "(B) 685",
+            "(C) 454",
+            "(D) 296"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 684.5324758532604
+    },
+    {
+        "image_id": "patient017_MWI_plane1.png",
+        "question": "Can you gauge the estimated head circumference of the fetus in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 547",
+            "(B) 976",
+            "(C) 354",
+            "(D) 771"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 770.6365052557393
+    },
+    {
+        "image_id": "patient018_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurement from the ultrasound image presented?",
+        "options": [
+            "(A) 290",
+            "(B) 666",
+            "(C) 911",
+            "(D) 414"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 666.2449040760864
+    },
+    {
+        "image_id": "patient018_EGY_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in this ultrasound image expressed in pixels?",
+        "options": [
+            "(A) 652",
+            "(B) 1059",
+            "(C) 1700",
+            "(D) 1471"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 1058.8983407553642
+    },
+    {
+        "image_id": "patient019_EGY_plane1.png",
+        "question": "Can you determine the estimated circumference of the fetal head in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 635",
+            "(B) 482",
+            "(C) 1028",
+            "(D) 1436"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 1028.3313622496098
+    },
+    {
+        "image_id": "patient019_MWI_plane1.png",
+        "question": "In this ultrasound image, can you provide an estimate of the fetal head circumference measured in pixels?",
+        "options": [
+            "(A) 1028",
+            "(B) 354",
+            "(C) 517",
+            "(D) 736"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 735.5304237222732
+    },
+    {
+        "image_id": "patient020_EGY_plane1.png",
+        "question": "Can you determine the approximate head circumference in pixels for the fetus depicted in this ultrasound image?",
+        "options": [
+            "(A) 663",
+            "(B) 281",
+            "(C) 878",
+            "(D) 406"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 663.2623072770612
+    },
+    {
+        "image_id": "patient020_MWI_plane1.png",
+        "question": "In this ultrasound image, what is your estimation of the fetal head circumference expressed in pixels?",
+        "options": [
+            "(A) 528",
+            "(B) 1271",
+            "(C) 751",
+            "(D) 1036"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 751.4563695921283
+    },
+    {
+        "image_id": "patient022_MWI_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 847",
+            "(B) 532",
+            "(C) 725",
+            "(D) 364"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 531.7795440716568
+    },
+    {
+        "image_id": "patient023_DZA_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in this ultrasound image, expressed in pixels?",
+        "options": [
+            "(A) 1189",
+            "(B) 969",
+            "(C) 425",
+            "(D) 700"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 700.0379260334215
+    },
+    {
+        "image_id": "patient023_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements based on this ultrasound image?",
+        "options": [
+            "(A) 1085",
+            "(B) 536",
+            "(C) 1482",
+            "(D) 740"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1085.223270990719
+    },
+    {
+        "image_id": "patient023_MWI_plane1.png",
+        "question": "Could you provide an estimate of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 887",
+            "(B) 1481",
+            "(C) 609",
+            "(D) 1152"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 886.680651799536
+    },
+    {
+        "image_id": "patient024_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements based on this ultrasound image?",
+        "options": [
+            "(A) 936",
+            "(B) 1110",
+            "(C) 465",
+            "(D) 670"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 670.4183481503621
+    },
+    {
+        "image_id": "patient024_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurement from this ultrasound image?",
+        "options": [
+            "(A) 1155",
+            "(B) 1816",
+            "(C) 1567",
+            "(D) 793"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 1155.0115073234304
+    },
+    {
+        "image_id": "patient024_MWI_plane1.png",
+        "question": "From the provided ultrasound image, what is your estimation of the fetal head circumference measured in pixels?",
+        "options": [
+            "(A) 605",
+            "(B) 1171",
+            "(C) 887",
+            "(D) 404"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 886.6720491449828
+    },
+    {
+        "image_id": "patient025_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurement as depicted in this ultrasound image?",
+        "options": [
+            "(A) 478",
+            "(B) 1445",
+            "(C) 790",
+            "(D) 1099"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 1099.0102777077848
+    },
+    {
+        "image_id": "patient026_EGY_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixel measurements based on this ultrasound image?",
+        "options": [
+            "(A) 764",
+            "(B) 480",
+            "(C) 1349",
+            "(D) 1050"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 1049.6214350748007
+    },
+    {
+        "image_id": "patient026_MWI_plane1.png",
+        "question": "Can you assess the ultrasound image and provide an estimate of the fetal head circumference measured in pixels?",
+        "options": [
+            "(A) 365",
+            "(B) 549",
+            "(C) 768",
+            "(D) 1009"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 767.9266528223934
+    },
+    {
+        "image_id": "patient027_DZA_plane1.png",
+        "question": "Using the provided ultrasound image, can you determine the estimated head circumference of the fetus in pixel measurement?",
+        "options": [
+            "(A) 632",
+            "(B) 304",
+            "(C) 858",
+            "(D) 451"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 631.9441926798511
+    },
+    {
+        "image_id": "patient027_MWI_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixel measurement from this ultrasound image?",
+        "options": [
+            "(A) 1354",
+            "(B) 832",
+            "(C) 558",
+            "(D) 1159"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 832.1022517218845
+    },
+    {
+        "image_id": "patient028_EGY_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference measured in pixels from the ultrasound image presented?",
+        "options": [
+            "(A) 611",
+            "(B) 456",
+            "(C) 291",
+            "(D) 709"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 456.2820299268738
+    },
+    {
+        "image_id": "patient029_MWI_plane1.png",
+        "question": "Could you provide an estimation of the fetal head circumference in pixel measurement based on the ultrasound image presented?",
+        "options": [
+            "(A) 345",
+            "(B) 748",
+            "(C) 1012",
+            "(D) 538"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 747.8623620764369
+    },
+    {
+        "image_id": "patient030_DZA_plane1.png",
+        "question": "Can you provide an estimate for the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 869",
+            "(B) 445",
+            "(C) 329",
+            "(D) 694"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 694.0706703076569
+    },
+    {
+        "image_id": "patient031_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel dimensions from the ultrasound image presented?",
+        "options": [
+            "(A) 623",
+            "(B) 816",
+            "(C) 993",
+            "(D) 412"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 622.9580252332056
+    },
+    {
+        "image_id": "patient031_MWI_plane1.png",
+        "question": "Could you determine the estimated head circumference of the fetus in pixels from the provided ultrasound image?",
+        "options": [
+            "(A) 1358",
+            "(B) 662",
+            "(C) 1181",
+            "(D) 886"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 886.0640225352454
+    },
+    {
+        "image_id": "patient033_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel dimensions as depicted in this ultrasound image?",
+        "options": [
+            "(A) 416",
+            "(B) 845",
+            "(C) 1180",
+            "(D) 531"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 844.5550086248006
+    },
+    {
+        "image_id": "patient033_MWI_plane1.png",
+        "question": "Can you assess the approximate circumference of the fetal head in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 834",
+            "(B) 1165",
+            "(C) 1402",
+            "(D) 552"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 833.5337765775431
+    },
+    {
+        "image_id": "patient034_DZA_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixel measurement based on the ultrasound image presented?",
+        "options": [
+            "(A) 527",
+            "(B) 769",
+            "(C) 1215",
+            "(D) 979"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 768.771994018745
+    },
+    {
+        "image_id": "patient034_MWI_plane1.png",
+        "question": "Can you provide an estimate of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 1410",
+            "(B) 834",
+            "(C) 1111",
+            "(D) 581"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 834.4908264513876
+    },
+    {
+        "image_id": "patient035_DZA_plane1.png",
+        "question": "Could you provide an estimation of the fetal head circumference in pixels as seen in this ultrasound image?",
+        "options": [
+            "(A) 603",
+            "(B) 968",
+            "(C) 788",
+            "(D) 407"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 602.9980639346145
+    },
+    {
+        "image_id": "patient036_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 837",
+            "(B) 765",
+            "(C) 558",
+            "(D) 418"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 558.0498358982975
+    },
+    {
+        "image_id": "patient038_DZA_plane1.png",
+        "question": "Can you provide an estimated pixel measurement for the head circumference of the fetus depicted in this ultrasound image?",
+        "options": [
+            "(A) 646",
+            "(B) 1056",
+            "(C) 830",
+            "(D) 478"
+        ],
+        "answer": "A",
+        "ground_truth_pixel": 646.0589847418679
+    },
+    {
+        "image_id": "patient041_DZA_plane1.png",
+        "question": "Assess the ultrasound image and provide an estimation of the fetal head circumference measured in pixels.",
+        "options": [
+            "(A) 895",
+            "(B) 686",
+            "(C) 456",
+            "(D) 1061"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 686.2054184488222
+    },
+    {
+        "image_id": "patient042_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements from this ultrasound image?",
+        "options": [
+            "(A) 353",
+            "(B) 528",
+            "(C) 1102",
+            "(D) 860"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 859.8682374607342
+    },
+    {
+        "image_id": "patient044_DZA_plane1.png",
+        "question": "Could you provide an estimation of the fetal head circumference in pixel format as seen in this ultrasound image?",
+        "options": [
+            "(A) 1543",
+            "(B) 700",
+            "(C) 1235",
+            "(D) 979"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 978.7663892026169
+    },
+    {
+        "image_id": "patient045_DZA_plane1.png",
+        "question": "Can you determine the estimated head circumference of the fetus in this ultrasound image, measured in pixels?",
+        "options": [
+            "(A) 426",
+            "(B) 866",
+            "(C) 1110",
+            "(D) 672"
+        ],
+        "answer": "D",
+        "ground_truth_pixel": 672.4387042102936
+    },
+    {
+        "image_id": "patient048_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in terms of pixels as depicted in this ultrasound image?",
+        "options": [
+            "(A) 406",
+            "(B) 978",
+            "(C) 592",
+            "(D) 783"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 592.0969919320012
+    },
+    {
+        "image_id": "patient051_DZA_plane1.png",
+        "question": "Can you determine the estimated pixel measurement for the head circumference of the fetus depicted in this ultrasound image?",
+        "options": [
+            "(A) 283",
+            "(B) 702",
+            "(C) 947",
+            "(D) 476"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 702.3098227005817
+    },
+    {
+        "image_id": "patient052_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel measurements from the ultrasound image presented?",
+        "options": [
+            "(A) 1018",
+            "(B) 664",
+            "(C) 877",
+            "(D) 451"
+        ],
+        "answer": "B",
+        "ground_truth_pixel": 664.0978855243095
+    },
+    {
+        "image_id": "patient053_DZA_plane1.png",
+        "question": "Can you provide an estimation of the fetal head circumference in pixel dimensions as observed in this ultrasound image?",
+        "options": [
+            "(A) 874",
+            "(B) 269",
+            "(C) 647",
+            "(D) 483"
+        ],
+        "answer": "C",
+        "ground_truth_pixel": 647.4238113172621
+    }
+]

@@ -1,0 +1,578 @@
+[
+    {
+        "image_id": "img1.png",
+        "question": "Considering the Angle of Progression observed in this fetal ultrasound, what would be the most appropriate delivery method to recommend?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is indicated",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img10.png",
+        "question": "Assess the fetal position shown in this ultrasound image. Is the Angle of Progression adequate for a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, may require cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img11.png",
+        "question": "Based on the Angle of Progression measured in this ultrasound image, what delivery method is indicated for this patient?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is appropriate",
+            "(B) AoP < 120°, alternative delivery methods may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img12.png",
+        "question": "Considering the Angle of Progression observed in this ultrasound image, what delivery method is indicated for this patient?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img13.png",
+        "question": "Analyze the Angle of Progression in this fetal ultrasound image. Is the fetus positioned for a spontaneous vaginal delivery based on the AoP measurement?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is appropriate",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img14.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what is the predicted mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for a vaginal delivery",
+            "(B) AoP < 120°, suggesting the need for a cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img15.png",
+        "question": "Considering the Angle of Progression in this fetal ultrasound, what is the most appropriate mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, may require cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img16.png",
+        "question": "Based on the ultrasound image provided, what can be inferred about the delivery method in relation to the Angle of Progression?",
+        "options": [
+            "(A) AoP >= 120°, indicating a favorable condition for vaginal delivery",
+            "(B) AoP < 120°, suggesting a need for cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img17.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what would be the most appropriate mode of delivery for the fetus?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, indicates possible need for cesarean section"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img18.png",
+        "question": "Assess the angle of progression in this fetal ultrasound image. Is the birth likely to be vaginal based on the AoP measurement?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is likely to be successful",
+            "(B) AoP < 120°, cesarean delivery may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img19.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, is the delivery pathway favorable for a spontaneous vaginal birth?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for a vaginal delivery",
+            "(B) AoP < 120°, suggesting a higher likelihood of requiring a cesarean delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img2.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what is the likelihood of a successful vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating favorable conditions for vaginal delivery",
+            "(B) AoP < 120°, suggesting a need for possible cesarean or instrumental assistance"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img20.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what mode of delivery would you anticipate?",
+        "options": [
+            "(A) AoP >= 120°, indicating a likelihood of vaginal delivery",
+            "(B) AoP < 120°, suggesting the need for a cesarean section"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img21.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound, what delivery method should be anticipated?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, likely requiring instrumental or cesarean delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img22.png",
+        "question": "Based on the assessment of the fetal head position in this ultrasound image, what is the likelihood of a successful vaginal delivery considering the AoP measurement?",
+        "options": [
+            "(A) AoP >= 120°, indicating a favorable condition for vaginal delivery",
+            "(B) AoP < 120°, suggesting a potential need for cesarean delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img23.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what would be the recommended mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, may require cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img24.png",
+        "question": "Based on the current Angle of Progression observed in the ultrasound image, should we anticipate a spontaneous vaginal delivery or consider alternative delivery methods?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for vaginal delivery",
+            "(B) AoP < 120°, suggesting the need for cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img25.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what is the recommended approach for delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is favorable",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img26.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, is the fetus likely to be delivered vaginally?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is probable",
+            "(B) AoP < 120°, cesarean delivery may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img27.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound, what can be inferred about the potential delivery method?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img28.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound image, what is the predicted mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating a high possibility of vaginal delivery",
+            "(B) AoP < 120°, suggesting the need for cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img29.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound image, what can you conclude about the likelihood of a vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating a favorable chance for vaginal delivery",
+            "(B) AoP < 120°, suggesting a possible need for cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img3.png",
+        "question": "Assess the fetal position in this ultrasound image. Is the fetus positioned favorably for a spontaneous vaginal delivery based on the Angle of Progression?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img30.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound, is the fetus positioned suitably for a natural birth?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img31.png",
+        "question": "Assess the Angle of Progression in this fetal ultrasound image. Based on the AoP measurement, what can be concluded regarding the likelihood of a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img32.png",
+        "question": "Analyze the fetal position in this ultrasound image. Does the AoP suggest a favorable condition for spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for vaginal delivery",
+            "(B) AoP < 120°, indicating potential need for cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img33.png",
+        "question": "Given the current Angle of Progression observed in this ultrasound image, what method of delivery would you recommend?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for vaginal delivery",
+            "(B) AoP < 120°, suggesting a potential need for cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img34.png",
+        "question": "Considering the fetal positioning observed in this ultrasound image, would the angle of progression indicate a likelihood for spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is highly likely",
+            "(B) AoP < 120°, cesarean section is recommended"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img35.png",
+        "question": "Assess the fetal positioning in this ultrasound image. Is the Angle of Progression indicating a favorable condition for spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img36.png",
+        "question": "Considering the fetal position indicated in this ultrasound image, does the Angle of Progression suggest a favorable delivery method?",
+        "options": [
+            "(A) AoP >= 120°, indicating a possibility for spontaneous vaginal delivery",
+            "(B) AoP < 120°, suggesting a need for cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img37.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what delivery method would you recommend?",
+        "options": [
+            "(A) AoP >= 120°, indicates possibility for vaginal delivery",
+            "(B) AoP < 120°, suggests need for cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img38.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, is the fetus positioned adequately for a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img39.png",
+        "question": "Assess the angle of progression in this fetal ultrasound scan. What conclusion can be drawn regarding the mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, indicates possible need for cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img4.png",
+        "question": "Assess the Angle of Progression in this fetal ultrasound image. What does the AoP indicate regarding the delivery method?",
+        "options": [
+            "(A) AoP >= 120°, indicating a favorable condition for vaginal delivery",
+            "(B) AoP < 120°, suggesting a possible need for cesarean delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img40.png",
+        "question": "Assess the fetal head position in this ultrasound image. What does the Angle of Progression suggest about the likelihood of a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for vaginal delivery",
+            "(B) AoP < 120°, suggesting a potential need for cesarean delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img41.png",
+        "question": "Considering the Angle of Progression observed in this ultrasound, would you anticipate a successful vaginal delivery or suggest a surgical approach?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is likely feasible",
+            "(B) AoP < 120°, surgical intervention may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img42.png",
+        "question": "Based on the observed Angle of Progression in this ultrasound, what is the recommended delivery approach?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is appropriate",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img43.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what delivery method is indicated?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, indicates potential need for cesarean delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img44.png",
+        "question": "Analyze the Angle of Progression in this fetal ultrasound. Based on your findings, what is the anticipated mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, consider cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img45.png",
+        "question": "Assess the Angle of Progression in this ultrasound image of the fetus. Based on the AoP measurement, what is the recommended mode of delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is appropriate",
+            "(B) AoP < 120°, a cesarean delivery may be necessary"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img46.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what delivery method would you anticipate?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, indicates potential need for cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img47.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, is the delivery method likely to be vaginal or require intervention?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img48.png",
+        "question": "Considering the fetal position indicated in the ultrasound image, what delivery method would you anticipate if the Angle of Progression is assessed?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img49.png",
+        "question": "Assess the Angle of Progression in this fetal ultrasound image. Is the delivery route favorable based on the AoP measured?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img5.png",
+        "question": "Consider the fetal positioning observed in this ultrasound image. Based on the Angle of Progression, what delivery method should be anticipated?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img50.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what can be inferred about the likelihood of a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicating potential for vaginal delivery",
+            "(B) AoP < 120°, suggesting a cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img51.png",
+        "question": "Assess the Angle of Progression in this ultrasound image. What can be inferred about the delivery method based on the AoP measurement?",
+        "options": [
+            "(A) AoP >= 120°, indicating suitability for vaginal delivery",
+            "(B) AoP < 120°, suggesting a need for cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img52.png",
+        "question": "Based on the Angle of Progression observed in this fetal ultrasound, what delivery method would you recommend?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, may require cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img53.png",
+        "question": "Based on the Angle of Progression observed, is this fetus likely to be delivered vaginally?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img54.png",
+        "question": "Based on the assessment of the fetal head position in this ultrasound image, what is the recommended delivery approach considering the Angle of Progression?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is appropriate",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be needed"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img55.png",
+        "question": "Analyze the current angle of progression in this fetal ultrasound image. What does it suggest about the likelihood of a spontaneous vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, indicates suitability for vaginal delivery",
+            "(B) AoP < 120°, indicates a need for cesarean or instrumental delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img56.png",
+        "question": "Based on the fetal head position observed in this ultrasound, is spontaneous vaginal delivery feasible given the Angle of Progression?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img57.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what delivery method should be considered?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, likely requires cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img58.png",
+        "question": "Assess the Angle of Progression in this fetal ultrasound image. What does the measurement indicate regarding the likelihood of a vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img59.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound image, what delivery method do you anticipate is most appropriate?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is favored",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img6.png",
+        "question": "Analyze the Angle of Progression in this ultrasound image. Is the fetus positioned favorably for a vaginal birth?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is likely",
+            "(B) AoP < 120°, cesarean delivery may be needed"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img60.png",
+        "question": "Assess the angle of progression in this fetal ultrasound image. What does the AoP indicate about the delivery method?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, alternative delivery methods may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img61.png",
+        "question": "Assess the angle of progression from this fetal ultrasound image. What does the AoP indicate about the possibility of a vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img62.png",
+        "question": "Assess the fetal position and determine the likelihood of spontaneous vaginal delivery based on the Angle of Progression.",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img63.png",
+        "question": "Analyze the angle of progression in this fetal ultrasound. Is the delivery likely to be spontaneous vaginal or not based on the AoP measurement?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, not suitable for spontaneous vaginal delivery"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img64.png",
+        "question": "Based on the measured Angle of Progression in this fetal ultrasound, what is the anticipated delivery method?",
+        "options": [
+            "(A) AoP >= 120°, spontaneous vaginal delivery is likely feasible",
+            "(B) AoP < 120°, instrumental delivery or cesarean may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img7.png",
+        "question": "Based on the Angle of Progression observed in this ultrasound, what is your assessment regarding the likelihood of a vaginal delivery?",
+        "options": [
+            "(A) AoP >= 120°, vaginal delivery is feasible",
+            "(B) AoP < 120°, instrumental or cesarean delivery may be necessary"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "img8.png",
+        "question": "Assess the fetal head position in this ultrasound image. What can be inferred about the delivery method considering the Angle of Progression?",
+        "options": [
+            "(A) AoP >= 120°, suitable for spontaneous vaginal delivery",
+            "(B) AoP < 120°, may necessitate cesarean or instrumental delivery"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "img9.png",
+        "question": "Based on the Angle of Progression in this ultrasound image, can you determine if a spontaneous vaginal delivery is likely?",
+        "options": [
+            "(A) AoP >= 120°, suitable for vaginal delivery",
+            "(B) AoP < 120°, not suitable for vaginal delivery"
+        ],
+        "answer": "B"
+    }
+]

@@ -1,0 +1,2099 @@
+[
+    {
+        "image_id": "patient001_DZA_plane0",
+        "question": "Does the displayed ultrasound image correspond to the anatomical plane of the fetal brain? Please respond with 'Yes' or 'No'.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_DZA_plane1",
+        "question": "Does the image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_DZA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_DZA_plane3",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_DZA_plane0",
+        "question": "Does this image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane0",
+        "question": "Does the image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient012_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_DZA_plane1",
+        "question": "Does the ultrasound image depict the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient014_DZA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient023_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient023_DZA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient023_DZA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient023_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_DZA_plane0",
+        "question": "Does the ultrasound image represent the fetal thorax?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_DZA_plane3",
+        "question": "Does this ultrasound image represent the fetal thorax?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_DZA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient036_DZA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient036_DZA_plane3",
+        "question": "Does the ultrasound image depict the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient036_DZA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient036_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient044_DZA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient044_DZA_plane0",
+        "question": "Does this image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient045_DZA_plane0",
+        "question": "Does the ultrasound image belong to the anatomical plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient045_DZA_plane1",
+        "question": "Does this ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient045_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane showing the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient045_DZA_plane3",
+        "question": "Does the image belong to the plane: Fetal thorax? (Options: A) Yes, B) No)",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient048_DZA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient048_DZA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient048_DZA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient048_DZA_plane3",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient051_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient051_DZA_plane3",
+        "question": "Does the image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient051_DZA_plane1",
+        "question": "Does the provided ultrasound image belong to the anatomical plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient051_DZA_plane0",
+        "question": "Does the image belong to the fetal thorax plane? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient052_DZA_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient052_DZA_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient052_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient052_DZA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient053_DZA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient053_DZA_plane3",
+        "question": "Does the ultrasound image depict the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient053_DZA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient053_DZA_plane2",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_EGY_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_EGY_plane3",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_EGY_plane1",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_EGY_plane3",
+        "question": "Does the image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_EGY_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal thorax? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient005_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient005_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient005_EGY_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient005_EGY_plane2",
+        "question": "Does the image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_EGY_plane2",
+        "question": "Does the image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_EGY_plane0",
+        "question": "Does the image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_EGY_plane1",
+        "question": "Does the ultrasound image depict the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_EGY_plane1",
+        "question": "Does this ultrasound image belong to the anatomical plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_EGY_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient010_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient010_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient010_EGY_plane3",
+        "question": "Does this ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient010_EGY_plane0",
+        "question": "Does the ultrasound image represent the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_EGY_plane3",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_EGY_plane2",
+        "question": "Does the ultrasound image depict the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_EGY_plane0",
+        "question": "Does this ultrasound image correspond to the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_EGY_plane1",
+        "question": "Does this image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient014_EGY_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_EGY_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_EGY_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient015_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient015_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane of the Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient015_EGY_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient015_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient024_EGY_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_EGY_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient025_EGY_plane2",
+        "question": "Does this ultrasound image depict the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient025_EGY_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient025_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient025_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_EGY_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient026_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_EGY_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_EGY_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_EGY_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient028_EGY_plane3",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_EGY_plane0",
+        "question": "Does this ultrasound image belong to the anatomical plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_MWI_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_MWI_plane3",
+        "question": "Does the ultrasound image depicted belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient001_MWI_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient001_MWI_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_MWI_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_MWI_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient003_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient003_MWI_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_MWI_plane3",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_MWI_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_MWI_plane1",
+        "question": "Does the ultrasound image depict the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_MWI_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_MWI_plane3",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_MWI_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient009_MWI_plane0",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_MWI_plane3",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient009_MWI_plane1",
+        "question": "Does the ultrasound image correspond to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient011_MWI_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_MWI_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_MWI_plane2",
+        "question": "Does the image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient011_MWI_plane1",
+        "question": "Does the provided image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient013_MWI_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient013_MWI_plane2",
+        "question": "Does the image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient013_MWI_plane1",
+        "question": "Does the ultrasound image correspond to the anatomical plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient013_MWI_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient014_MWI_plane3",
+        "question": "Does the provided ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient015_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient015_MWI_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient015_MWI_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient020_MWI_plane0",
+        "question": "Does the ultrasound image represent the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient020_MWI_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient020_MWI_plane1",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_MWI_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient024_MWI_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient024_MWI_plane2",
+        "question": "Does the provided image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient024_MWI_plane3",
+        "question": "Does the image belong to the plane: Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_MWI_plane0",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_MWI_plane3",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient029_MWI_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_MWI_plane3",
+        "question": "Does the ultrasound image correspond to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_MWI_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient031_MWI_plane1",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient031_MWI_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_MWI_plane1",
+        "question": "Does the ultrasound image accurately represent the fetal brain in the axial plane?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_MWI_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient033_MWI_plane2",
+        "question": "Does the image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient033_MWI_plane3",
+        "question": "Does this ultrasound image represent the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient022_UGA_plane1",
+        "question": "Does this ultrasound image depict the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient022_UGA_plane2",
+        "question": "Does the ultrasound image depict the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient022_UGA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_UGA_plane2",
+        "question": "Does this image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient026_UGA_plane1",
+        "question": "Does the ultrasound image represent the anatomical plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient026_UGA_plane0",
+        "question": "Does the image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient030_UGA_plane0",
+        "question": "Does the ultrasound image depict the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient030_UGA_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient030_UGA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient031_UGA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_UGA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient031_UGA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient037_UGA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient037_UGA_plane1",
+        "question": "Does the image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient037_UGA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient039_UGA_plane1",
+        "question": "Does this ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient039_UGA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient039_UGA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient046_UGA_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient046_UGA_plane1",
+        "question": "Does this image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient046_UGA_plane0",
+        "question": "Does the ultrasound image depict the anatomical plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient050_UGA_plane1",
+        "question": "Does the ultrasound image represent the anatomical plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient050_UGA_plane2",
+        "question": "Does the image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient050_UGA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient074_UGA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient074_UGA_plane2",
+        "question": "Does the image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient074_UGA_plane1",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient088_UGA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient088_UGA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient088_UGA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient091_UGA_plane1",
+        "question": "Does this ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient091_UGA_plane2",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient091_UGA_plane0",
+        "question": "Does this ultrasound image belong to the anatomical plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient103_UGA_plane0",
+        "question": "Does this image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient103_UGA_plane1",
+        "question": "Does this ultrasound image belong to the anatomical plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient103_UGA_plane2",
+        "question": "Does the image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient106_UGA_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient106_UGA_plane0",
+        "question": "Does this image belong to the plane: Fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient106_UGA_plane2",
+        "question": "Does the ultrasound image belong to the anatomical plane of the fetal brain? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient002_GHA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient002_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient002_GHA_plane1",
+        "question": "Does the ultrasound image belong to the anatomical plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_GHA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient004_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient004_GHA_plane1",
+        "question": "Does this ultrasound image represent the fetal thorax?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient006_GHA_plane0",
+        "question": "Does the ultrasound image correspond to the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient006_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient006_GHA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_GHA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient007_GHA_plane0",
+        "question": "Does the ultrasound image correspond to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient007_GHA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient018_GHA_plane2",
+        "question": "Does the provided ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient018_GHA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient018_GHA_plane1",
+        "question": "Does the provided ultrasound image represent the fetal brain anatomy?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_GHA_plane0",
+        "question": "Does this fetal ultrasound image belong to the plane of the fetal brain? Choose (A) Yes or (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient028_GHA_plane2",
+        "question": "Does this ultrasound image belong to the plane of the fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient028_GHA_plane1",
+        "question": "Does the ultrasound image shown belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient029_GHA_plane1",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient029_GHA_plane2",
+        "question": "Does the image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient029_GHA_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient035_GHA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient035_GHA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient035_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient038_GHA_plane0",
+        "question": "Does the ultrasound image correspond to the fetal abdomen?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient038_GHA_plane1",
+        "question": "Does this ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient038_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient042_GHA_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient042_GHA_plane0",
+        "question": "Does this ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient042_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient044_GHA_plane0",
+        "question": "Does the ultrasound image belong to the plane of the fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient044_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal femur? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient044_GHA_plane1",
+        "question": "Does the ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient048_GHA_plane1",
+        "question": "Does the ultrasound image shown represent the fetal brain?",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient048_GHA_plane2",
+        "question": "Does the provided ultrasound image belong to the plane of the fetal brain? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient048_GHA_plane0",
+        "question": "Does this ultrasound image belong to the plane of the fetal abdomen? (A) Yes, (B) No",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient055_GHA_plane0",
+        "question": "Does the ultrasound image belong to the plane: Fetal abdomen? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "A"
+    },
+    {
+        "image_id": "patient055_GHA_plane2",
+        "question": "Does the ultrasound image belong to the plane: Fetal brain? Options: (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    },
+    {
+        "image_id": "patient055_GHA_plane1",
+        "question": "Does the ultrasound image belong to the plane: Fetal thorax? (A) Yes, (B) No.",
+        "options": [
+            "(A) Yes",
+            "(B) No"
+        ],
+        "answer": "B"
+    }
+]
