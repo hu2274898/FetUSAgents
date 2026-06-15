@@ -1,0 +1,26 @@
+model_name: fetalclip # options: densenet, efficientnet, vgg, swin, deit, vit, vit_small, vit_laion, fetalclip
+task: classification
+data_dir: ./data/processed
+output_dir: outputs
+fetalclip_config_path: ../../../../FetalAgent_ckpt/FetalCLIP_config.json
+fetalclip_weights_path: ../../../../FetalAgent_ckpt/FetalCLIP_weights.pt
+
+# dataloader arguments
+num_workers: 8
+batch_size: 48
+
+# trainer arguments
+max_epochs: 25
+
+# number of trials
+num_trials: 1
+
+# data augmentation
+use_augmentation: true
+
+# network settings
+freeze_encoder: false
+use_lora: true
+
+# for debug purpose only
+debug_mode: false
