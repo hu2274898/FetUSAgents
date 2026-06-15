@@ -1,0 +1,14 @@
+{
+  "paths": {
+    "dir_data": "imgdata_abdomen",
+    "dir_preprocessed": "imgdata_abdomen",
+    "dir_experiment_logs": "experiment_logs",
+    "path_fetalclip_config": "../../FetalCLIP_config.json",
+    "path_fetalclip_weight": "../../../FetalAgent_ckpt/FetalCLIP_weights.pt"
+  },
+  "params": {
+    "num_workers": 4,
+    "batch_size": 8,
+    "max_epochs": 100
+  }
+}
