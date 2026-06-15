@@ -1,0 +1,20 @@
+defaults:
+  - _self_
+  - hydra: default
+  - experiment: null
+
+L:
+  accelerator: cuda
+  strategy: auto
+  devices: 1
+  num_nodes: 1
+  precision: 16-mixed
+  use_distributed_sampler: false
+
+data:
+  dataset_path: ./datasets/
+  ds_path: ${data.dataset_path}
+
+
+mode: test
+ckpt_path: ./checkpoints/best235.pth

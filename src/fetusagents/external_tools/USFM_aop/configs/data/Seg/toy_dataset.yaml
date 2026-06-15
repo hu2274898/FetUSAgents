@@ -1,0 +1,15 @@
+name: "toy_dataset"
+type: "SegBase" # SegBase or SegVOS
+num_classes: 3 # 2 for [0,1], 3 for [0,1,2], etc.
+img_size: 512
+path:
+  root: "./datasets/Seg/toy_dataset"
+  split:
+    train: "trainning_set"
+    val: "val_set"
+    test: "test_set"
+    vis:
+      samples: 16
+      interval: 10
+
+transform:
