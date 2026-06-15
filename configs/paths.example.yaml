@@ -1,0 +1,37 @@
+# User-specific config for FetUSAgents.
+#
+# Usage:
+#   cp configs/paths.example.yaml configs/paths.local.yaml
+#   edit configs/paths.local.yaml
+#
+# `paths.local.yaml` is gitignored. The loader also honours $FETUSAGENTS_CONFIG.
+
+paths:
+  # REQUIRED for real (non --dry_run) inference. Holds the model weights;
+  # they are NOT shipped with the repository.
+  fetalagent_ckpt_dir: /path/to/FetalAgent_ckpt
+
+  # REQUIRED for the RAG step in specific VQA. Chroma persist directory.
+  # The repository ships an empty placeholder if you have no DB yet.
+  rag_db_path:         /path/to/fetal_ultrasound_knowledge_db
+
+python_envs:
+  # Python executables for the per-tool conda environments. Leave any of
+  # them blank to fall back to the system Python; the matching tool will
+  # raise at call time if it actually needs that environment.
+  hxt_base_python:        /path/to/envs/hxt_base/bin/python
+  fetalclip_python:       /path/to/envs/fetalclip/bin/python
+  fetalclip2_python:      /path/to/envs/fetalclip2/bin/python
+  experiment_aaai_python: /path/to/envs/experiment_aaai/bin/python
+  usfm_python:            /path/to/envs/USFM/bin/python
+  nnunet_predict:         /path/to/envs/hxt_base/bin/nnUNetv2_predict
+
+llm:
+  # openai_api_key is best supplied via $OPENAI_API_KEY (don't commit it).
+  # openai_api_key: sk-...
+  openai_model: gpt-5.1
+  openai_base_url: https://api.openai.com/v1
+
+tool_timeout: 1800
+output_dir: outputs
+log_level: INFO

@@ -1,0 +1,12 @@
+# Default tunables for FetUSAgents.
+# This file holds values that don't change per-user. Edit paths.local.yaml
+# (copy from paths.example.yaml) for machine-specific paths and credentials.
+
+tool_timeout: 1800       # seconds — applied to each subprocess tool call
+output_dir: outputs      # default output root; overridden by --output_dir
+log_level: INFO
+
+llm:
+  openai_model: gpt-5.1
+  openai_base_url: https://api.openai.com/v1
+  # openai_api_key: <set via $OPENAI_API_KEY or paths.local.yaml; never commit>

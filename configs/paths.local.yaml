@@ -1,0 +1,22 @@
+paths:
+  fetalagent_ckpt_dir: /data/birth/lmx/work/Class_projects/hxt/FetalAgent_ckpt
+  rag_db_path:         /data/birth/lmx/work/Class_projects/hxt/FetalAgent_hxt/fetal_ultrasound_knowledge_db
+
+python_envs:
+  hxt_base_python:        /data/birth/lmx/anaconda3/envs/hxt_base/bin/python
+  fetalclip_python:       /data/birth/lmx/anaconda3/envs/fetalclip/bin/python
+  fetalclip2_python:      /data/birth/lmx/anaconda3/envs/fetalclip2/bin/python
+  experiment_aaai_python: /data/birth/lmx/anaconda3/envs/experiment_aaai/bin/python
+  usfm_python:            /data/birth/lmx/anaconda3/envs/USFM/bin/python
+  nnunet_predict:         /data/birth/lmx/anaconda3/envs/nnunet/bin/nnUNetv2_predict
+
+llm:
+  openai_model: gpt-5.1
+  openai_base_url: https://api.openai.com/v1
+
+tool_timeout: 1800
+output_dir: outputs
+log_level: INFO
+
+# Set OPENAI_API_KEY in your shell BEFORE running, e.g.:
+#   export OPENAI_API_KEY="sk-..."
