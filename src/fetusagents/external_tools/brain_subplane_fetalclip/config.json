@@ -1,0 +1,17 @@
+{
+  "paths": {
+    "dir_data": "data",
+    "path_data_csv": "data.csv",
+    "path_train_val_split": "train_val_split.json",
+    "path_test_split": "test_split.json",
+    "dir_preprocessed": "data4train",
+    "dir_experiment_logs": "experiment_logs",
+    "path_fetalclip_config": "../../../FetalAgent_ckpt/FetalCLIP_config.json",
+    "path_fetalclip_weight": "../../../FetalAgent_ckpt/FetalCLIP_weights.pt"
+  },
+  "params": {
+    "num_workers": 4,
+    "batch_size": 64,
+    "max_epochs": 50
+  }
+}
