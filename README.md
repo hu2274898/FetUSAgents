@@ -1,11 +1,16 @@
 # FetUSAgents: Towards Reliable Fetal Ultrasound Interpretation with Multi Agent Collaboration
 
+
+🎉🎉🎉 **2026.08.12** We have publicly released the pretrained checkpoints for the expert models used in FetUSAgents, including 21 expert tools and 1 key-frame selection model.
+
+
 <p align="center">
   <img src="assets/pipeline.png" width="900" alt="pipeline">
 </p>
 <p align="center">
   <i><b>Figure 1.</b> Overview of the FetUSAgents framework. The system routes user requests to specific-task or general-task workflows, invokes task-specific Expert Agents for visual evidence acquisition, integrates tool outputs with multi-agent deliberation through DPEA, and uses retrieval-enhanced evidence consolidation to support grounded report generation, image captioning, and video summarization.</i>
 </p>
+
 
 ## 1. Dataset and FetUS-VQA
 
@@ -49,6 +54,7 @@ fetus_base5: USFM-based AoP / HC tools
 
 Example setup commands for these auxiliary environments are provided in **ENVIRONMENTS.md**. If you already have compatible research environments, you can reuse them and only set the environment variables below. If you already have compatible research environments, you can reuse them and only set the environment variables below.
 ## 3. Checkpoints
+**The pretrained checkpoints** for all expert tools (vision models) used in FetUSAgents are **publicly available** at:https://drive.google.com/file/d/1Rwh8kTzNrabfX7bnSDn97JwmyX7cIpHe/view?usp=sharing
 
 The weights of all tools (vision models) should be placed in the FetalAgent_ckpt/ folder.
 
