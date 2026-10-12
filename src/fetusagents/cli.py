@@ -55,6 +55,16 @@ def build_arg_parser() -> argparse.ArgumentParser:
         default="auto",
         help="Force workflow selection. 'auto' lets the Coordinator decide.",
     )
+    p.add_argument(
+        "--router",
+        choices=["auto", "llm", "rules"],
+        default="auto",
+        help=(
+            "Routing backend. 'auto' uses the vision LLM when configured and "
+            "falls back to rules; 'llm' requires a valid LLM configuration; "
+            "'rules' is deterministic and offline."
+        ),
+    )
     p.add_argument("--config", default=None, help="Path to a YAML/JSON config file.")
     p.add_argument(
         "--dry_run",
@@ -95,6 +105,8 @@ def _dispatch(args: argparse.Namespace) -> WorkflowResult:
         input_path=args.input,
         mode=args.mode,
         task_name=args.task_name,
+        # A dry run must remain network-free and reproducible.
+        routing_strategy="rules" if args.dry_run else args.router,
     )
     logging.info("coordinator decision: %s", json.dumps(decision.to_dict(), ensure_ascii=False))
 

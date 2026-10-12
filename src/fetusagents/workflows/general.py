@@ -68,6 +68,9 @@ def run_single(
 ) -> WorkflowResult:
     """Run the general workflow on a single image / case dir / video folder."""
     cfg = cfg or load_config()
+    # The Coordinator may use the LLM allocator before the heavy workflow
+    # starts, so publish the resolved endpoint credentials first.
+    cfg.export_environment()
     if decision is None:
         decision = Coordinator().route(query=query, input_path=input_path, mode="general")
 

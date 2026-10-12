@@ -87,6 +87,9 @@ def run_single(
     ``options``.
     """
     cfg = cfg or load_config()
+    # The Coordinator may use the LLM allocator before the heavy workflow
+    # starts, so publish the resolved endpoint credentials first.
+    cfg.export_environment()
     if decision is None:
         decision = Coordinator().route(
             query=question,

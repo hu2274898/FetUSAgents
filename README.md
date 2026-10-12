@@ -134,6 +134,28 @@ python -m fetusagents \
   --save_report
 ```
 
+### 5.4 Coordinator routing backend
+
+The Coordinator uses a vision-capable LLM allocator when `OPENAI_API_KEY`
+is configured. The allocator receives the query and up to three representative
+input images, then selects `query_type` and `task_type` from closed enums. Its
+JSON response is validated locally before workflow dispatch. Invalid output or
+an API failure falls back to the deterministic keyword router.
+
+```bash
+# Default: LLM when available, otherwise rule fallback
+python -m fetusagents --router auto --query "..." --input /path/to/image.png
+
+# Require LLM routing; fail instead of falling back
+python -m fetusagents --router llm --query "..." --input /path/to/image.png
+
+# Offline/reproducible routing for tests and ablations
+python -m fetusagents --router rules --query "..." --input /path/to/image.png
+```
+
+Explicit `--mode` and `--task_name` values take precedence. `--dry_run`
+always uses rule routing so it remains network-free.
+
 ## 6. Citation
 
 ```bibtex
@@ -158,6 +180,5 @@ We gratefully acknowledge the contributions of the following projects:
 [USFM](https://github.com/openmedlab/USFM),
 [Chroma](https://github.com/chroma-core/chroma), and
 [AutoGen](https://github.com/microsoft/autogen).
-
 
 
